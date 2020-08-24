@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\minigame\\UE4\\Source\\demo0\\demo0.Build.cs",
+		"F:\\minigame\\UE4\\Source\\demo0.Target.cs",
+		"F:\\minigame\\UE4\\Source\\demo0Editor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}
