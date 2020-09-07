@@ -1,0 +1,1747 @@
+﻿Log file open, 09/07/20 10:01:33
+LogInit: Display: Running engine for game: demo0
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.204465
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: F:/eu4/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE4/UE4-master/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.07-02.01.33:957][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.09.07-02.01.33:957][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.09.07-02.01.33:957][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/UE4/UE4-master/Saved/Config/Windows/Engine.ini]
+[2020.09.07-02.01.33:957][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.09.07-02.01.33:957][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/UE4/UE4-master/Saved/Config/Windows/Engine.ini]
+[2020.09.07-02.01.33:957][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE4/UE4-master/Saved/Config/Windows/Engine.ini]
+[2020.09.07-02.01.33:957][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.09.07-02.01.33:957][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.09.07-02.01.33:957][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.09.07-02.01.33:957][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.09.07-02.01.33:957][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.09.07-02.01.33:957][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.09.07-02.01.33:957][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.09.07-02.01.33:957][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.09.07-02.01.33:957][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.09.07-02.01.33:957][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.09.07-02.01.33:957][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.09.07-02.01.33:957][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.09.07-02.01.33:957][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.09.07-02.01.33:957][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.09.07-02.01.33:958][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/UE4/UE4-master/Saved/Config/Windows/Engine.ini]
+[2020.09.07-02.01.33:958][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.09.07-02.01.33:958][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.09.07-02.01.33:958][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.09.07-02.01.33:958][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.09.07-02.01.33:958][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.09.07-02.01.33:958][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.09.07-02.01.33:958][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.09.07-02.01.33:958][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.09.07-02.01.33:958][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.09.07-02.01.33:958][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.09.07-02.01.33:958][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.09.07-02.01.33:958][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.09.07-02.01.33:958][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.09.07-02.01.33:958][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/UE4/UE4-master/Saved/Config/Windows/Engine.ini]
+[2020.09.07-02.01.33:958][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/UE4/UE4-master/Saved/Config/Windows/Engine.ini]
+[2020.09.07-02.01.33:961][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UE4/UE4-master/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UE4/UE4-master/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UE4/UE4-master/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UE4/UE4-master/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UE4/UE4-master/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.07-02.01.33:961][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UE4/UE4-master/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UE4/UE4-master/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UE4/UE4-master/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.09.07-02.01.33:962][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.07-02.01.33:962][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.07-02.01.33:962][  0]LogHAL: Display: Platform has ~ 8 GB [8459030528 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.09.07-02.01.33:962][  0]LogInit: Going up to parent DeviceProfile []
+[2020.09.07-02.01.33:962][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UE4/UE4-master/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UE4/UE4-master/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UE4/UE4-master/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.07-02.01.33:962][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UE4/UE4-master/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UE4/UE4-master/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UE4/UE4-master/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.07-02.01.33:963][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UE4/UE4-master/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UE4/UE4-master/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.09.07-02.01.33:964][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UE4/UE4-master/Saved/Config/Windows/Engine.ini]
+[2020.09.07-02.01.33:964][  0]LogInit: Computer: LAPTOP-NHJIF990
+[2020.09.07-02.01.33:964][  0]LogInit: User: 大佬
+[2020.09.07-02.01.33:964][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.09.07-02.01.33:964][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.07-02.01.33:964][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.09.07-02.01.33:964][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.07-02.01.33:964][  0]LogMemory: Process Physical Memory: 113.61 MB used, 113.61 MB peak
+[2020.09.07-02.01.33:965][  0]LogMemory: Process Virtual Memory: 95.47 MB used, 95.47 MB peak
+[2020.09.07-02.01.33:965][  0]LogMemory: Physical Memory: 4076.22 MB used,  3990.94 MB free, 8067.16 MB total
+[2020.09.07-02.01.33:965][  0]LogMemory: Virtual Memory: 5126.86 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2020.09.07-02.01.33:977][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.09.07-02.01.34:028][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.09.07-02.01.34:029][  0]LogInit: Using OS detected language (zh-CN).
+[2020.09.07-02.01.34:030][  0]LogInit: Using OS detected locale (zh-CN).
+[2020.09.07-02.01.34:031][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2020.09.07-02.01.34:148][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2020.09.07-02.01.34:148][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2020.09.07-02.01.34:148][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2020.09.07-02.01.34:149][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2020.09.07-02.01.34:149][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2020.09.07-02.01.34:149][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2020.09.07-02.01.34:149][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2020.09.07-02.01.34:149][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2020.09.07-02.01.34:149][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2020.09.07-02.01.34:149][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2020.09.07-02.01.34:149][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.09.07-02.01.34:210][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.07-02.01.34:243][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.09.07-02.01.34:243][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.09.07-02.01.34:475][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.07-02.01.34:475][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.09.07-02.01.34:475][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.09.07-02.01.34:475][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.07-02.01.34:551][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.09.07-02.01.34:551][  0]LogD3D11RHI:       4021/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.09.07-02.01.34:567][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.09.07-02.01.34:567][  0]LogD3D11RHI:       128/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.09.07-02.01.34:570][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.07-02.01.34:570][  0]LogD3D11RHI:       0/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.07-02.01.34:570][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.07-02.01.34:617][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.07-02.01.34:617][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.09.07-02.01.34:617][  0]LogWindows: EnumDisplayDevices:
+[2020.09.07-02.01.34:617][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.09.07-02.01.34:618][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.09.07-02.01.34:619][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.09.07-02.01.34:620][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.09.07-02.01.34:620][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.09.07-02.01.34:620][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.09.07-02.01.34:620][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.09.07-02.01.34:620][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2020.09.07-02.01.34:663][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.09.07-02.01.34:664][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.09.07-02.01.34:664][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.07-02.01.34:664][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.09.07-02.01.34:687][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.09.07-02.01.35:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.09.07-02.01.35:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.09.07-02.01.35:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.09.07-02.01.35:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.09.07-02.01.35:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.09.07-02.01.35:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.09.07-02.01.35:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.09.07-02.01.35:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.09.07-02.01.35:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.09.07-02.01.35:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.09.07-02.01.35:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.09.07-02.01.35:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.09.07-02.01.35:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.09.07-02.01.35:152][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.09.07-02.01.35:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.09.07-02.01.35:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.09.07-02.01.35:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.09.07-02.01.35:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.09.07-02.01.35:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.09.07-02.01.35:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.09.07-02.01.35:255][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.09.07-02.01.35:255][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.09.07-02.01.35:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.09.07-02.01.35:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.09.07-02.01.35:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.09.07-02.01.35:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.09.07-02.01.35:312][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.09.07-02.01.35:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.09.07-02.01.35:324][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.07-02.01.35:336][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.09.07-02.01.35:429][  0]LogShaderCompilers: Guid format shader working directory is 25 characters bigger than the processId version (E:/UE4/UE4-master/Intermediate/Shaders/WorkingDirectory/14640/).
+[2020.09.07-02.01.35:429][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/大佬/AppData/Local/Temp/UnrealShaderWorkingDir/A14D0BA04A567FD06A0E8BB027DA88F0/'.
+[2020.09.07-02.01.35:429][  0]LogXGEController: Cleaning working directory: C:/Users/大佬/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.09.07-02.01.35:430][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.09.07-02.01.35:430][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.09.07-02.01.35:430][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.07-02.01.36:266][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.07-02.01.36:328][  0]LogDerivedDataCache: Loaded boot cache 0.06s 75MB C:/Users/大佬/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.09.07-02.01.36:328][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/大佬/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.09.07-02.01.36:329][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/UE4/UE4-master/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.07-02.01.36:329][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.07-02.01.36:329][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/UE4/UE4-master/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.07-02.01.36:329][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.07-02.01.36:341][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.07-02.01.36:341][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.07-02.01.36:341][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.09.07-02.01.36:344][  0]LogDerivedDataCache: Using Local data cache path C:/Users/大佬/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.07-02.01.36:344][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.09.07-02.01.36:344][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.09.07-02.01.36:405][  0]LogSlate: Using FreeType 2.10.0
+[2020.09.07-02.01.36:406][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.07-02.01.36:440][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2020.09.07-02.01.36:681][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.07-02.01.36:817][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.07-02.01.36:817][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.09.07-02.01.36:817][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.09.07-02.01.36:817][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.09.07-02.01.36:817][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.09.07-02.01.36:835][  0]LogNetVersion: demo0 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 482723709)
+[2020.09.07-02.01.37:332][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000027CE8245D80), frame # 0
+[2020.09.07-02.01.37:332][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027CE81D8680), frame # 0
+[2020.09.07-02.01.37:334][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027CE81EE000), frame # 0
+[2020.09.07-02.01.37:401][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 2 prioritized culture(s) in 0.060474 seconds
+[2020.09.07-02.01.37:406][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.09.07-02.01.37:406][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.09.07-02.01.37:406][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.07-02.01.37:908][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.07-02.01.37:915][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.07-02.01.38:031][  0]SourceControl: 源码管理已禁用
+[2020.09.07-02.01.38:031][  0]SourceControl: 源码管理已禁用
+[2020.09.07-02.01.38:036][  0]SourceControl: 源码管理已禁用
+[2020.09.07-02.01.38:041][  0]SourceControl: 源码管理已禁用
+[2020.09.07-02.01.38:055][  0]SourceControl: 源码管理已禁用
+[2020.09.07-02.01.38:412][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.07-02.01.38:444][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.07-02.01.38:444][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.07-02.01.38:510][  0]LogOcInput: OculusInput pre-init called
+[2020.09.07-02.01.38:525][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.09.07-02.01.38:525][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.09.07-02.01.38:602][  0]LogEngine: Initializing Engine...
+[2020.09.07-02.01.38:605][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.07-02.01.38:605][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.09.07-02.01.38:606][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.09.07-02.01.38:738][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.09.07-02.01.38:748][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.07-02.01.38:748][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027CEEDA3C00), frame # 0
+[2020.09.07-02.01.38:748][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027CEEDD7100), frame # 0
+[2020.09.07-02.01.38:829][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.01.38:829][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.01.38:829][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.01.38:829][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.01.38:829][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.01.38:829][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.01.38:829][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.01.38:829][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.01.38:830][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.01.38:830][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.01.38:849][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.01.38:849][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.01.38:936][  0]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek High Definition Audio)
+[2020.09.07-02.01.38:939][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.07-02.01.38:942][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.07-02.01.38:942][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.07-02.01.38:943][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.07-02.01.38:947][  0]LogInit: FAudioDevice initialized.
+[2020.09.07-02.01.38:947][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.09.07-02.01.39:123][  0]LogDerivedDataCache: Saved boot cache 0.18s 75MB C:/Users/大佬/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.09.07-02.01.39:124][  0]LogInit: Texture streaming: Enabled
+[2020.09.07-02.01.39:153][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.07-02.01.39:153][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={78977AB2-41BB-9412-136A-40B17B2B88E8}
+[2020.09.07-02.01.39:153][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.09.07-02.01.39:158][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.09.07-02.01.39:204][  0]LogInit: Transaction tracking system initialized
+[2020.09.07-02.01.39:238][  0]BlueprintLog: New page: 编辑器加载
+[2020.09.07-02.01.39:343][  0]LocalizationService: 本地化服务已禁用
+[2020.09.07-02.01.39:531][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.07-02.01.39:531][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.07-02.01.39:725][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/UE4-master/Content/' took 0.01s
+[2020.09.07-02.01.40:029][  0]SourceControl: 源码管理已禁用
+[2020.09.07-02.01.40:029][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.875
+[2020.09.07-02.01.40:029][  0]Cmd: MAP LOAD FILE="E:/UE4/UE4-master/Content/Maps/ArenaMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.07-02.01.40:030][  0]LightingResults: New page: 光照构建
+[2020.09.07-02.01.40:030][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.01.40:030][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.01.40:030][  0]MapCheck: New page: 地图检测
+[2020.09.07-02.01.40:030][  0]LightingResults: New page: 光照构建
+[2020.09.07-02.01.40:040][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027CEEDA3C00), frame # 0
+[2020.09.07-02.01.40:040][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027CEEDD7100), frame # 0
+[2020.09.07-02.01.40:041][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.09.07-02.01.40:755][  0]LogAIModule: Creating AISystem for world ArenaMap
+[2020.09.07-02.01.40:755][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027CF728DE00), frame # 0
+[2020.09.07-02.01.40:755][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027CF7296FC0), frame # 0
+[2020.09.07-02.01.40:826][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.07-02.01.40:861][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.09.07-02.01.40:861][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.07-02.01.40:862][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.131毫秒。
+[2020.09.07-02.01.40:862][  0]LogFileHelpers: Loading map 'ArenaMap' took 0.833
+[2020.09.07-02.01.40:864][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.709
+[2020.09.07-02.01.41:030][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.01.41:038][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.01.41:045][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.01.41:053][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.01.41:063][  0]LogCollectionManager: Loaded 0 collections in 0.000901 seconds
+[2020.09.07-02.01.41:081][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/UE4-master/Saved/Collections/' took 0.00s
+[2020.09.07-02.01.41:081][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/UE4-master/Content/Developers/大佬/Collections/' took 0.00s
+[2020.09.07-02.01.41:081][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/UE4-master/Content/Collections/' took 0.00s
+[2020.09.07-02.01.41:081][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 3429 classes and 823 folders.
+[2020.09.07-02.01.41:084][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.09.07-02.01.41:148][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.09.07-02.01.41:149][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2020.09.07-02.01.41:203][  0]LogSlate: Took 0.000328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.07-02.01.41:207][  0]LogSlate: Took 0.002736 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.09.07-02.01.41:210][  0]LogSlate: Took 0.001039 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.07-02.01.41:213][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.07-02.01.41:295][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2020.09.07-02.01.41:431][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.09.07-02.01.41:431][  0]LogLoad: (Engine Initialization) Total time: 9.28 seconds
+[2020.09.07-02.01.41:431][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.07-02.01.41:503][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.09.07-02.01.41:515][  0]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.07-02.01.41:527][  1]LogAssetRegistry: Asset discovery search completed in 5.0885 seconds
+[2020.09.07-02.01.41:533][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.09.07-02.01.49:235][448]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.07-02.01.49:404][448]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1
+[2020.09.07-02.01.49:417][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.09.07-02.01.49:420][448]Cmd: MAP LOAD FILE="E:/UE4/UE4-master/Content/Maps/CoopLandscape_Map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.07-02.01.49:420][448]LightingResults: New page: 光照构建
+[2020.09.07-02.01.49:420][448]LoadErrors: New page: 正在加载地图：CoopLandscape_Map1.umap
+[2020.09.07-02.01.49:446][448]LogWorld: UWorld::CleanupWorld for ArenaMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.01.49:446][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.01.49:447][448]MapCheck: New page: 地图检测
+[2020.09.07-02.01.49:447][448]LightingResults: New page: 光照构建
+[2020.09.07-02.01.49:464][448]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027CF728DE00), frame # 448
+[2020.09.07-02.01.49:464][448]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027CF7296FC0), frame # 448
+[2020.09.07-02.01.49:466][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.09.07-02.01.49:554][448]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.07-02.01.49:554][448]LogAIModule: Creating AISystem for world CoopLandscape_Map1
+[2020.09.07-02.01.49:554][448]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027CF70BF600), frame # 448
+[2020.09.07-02.01.49:554][448]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027C9208FC40), frame # 448
+[2020.09.07-02.01.49:588][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.09.07-02.01.49:592][448]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.07-02.01.49:592][448]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.084毫秒。
+[2020.09.07-02.01.49:592][448]LogFileHelpers: Loading map 'CoopLandscape_Map1' took 0.173
+[2020.09.07-02.01.53:928][702]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall3)
+[2020.09.07-02.02.03:123][249]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.02.05:087][351]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall5)
+[2020.09.07-02.02.07:375][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CoopLandscape_Map1" FILE="E:/UE4/UE4-master/Content/Maps/CoopLandscape_Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.07-02.02.07:388][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.09.07-02.02.07:728][480]LogSavePackage: Moving 'E:/UE4/UE4-master/Saved/CoopLandscape_Map11AC3A4FD40972F865A7B67A1C35DB3D1.tmp' to 'E:/UE4/UE4-master/Content/Maps/CoopLandscape_Map1.umap'
+[2020.09.07-02.02.07:748][480]AssetCheck: New page: 资产保存：CoopLandscape_Map1
+[2020.09.07-02.02.07:748][480]LogContentValidation: Display: 正在验证World /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1
+[2020.09.07-02.02.16:148][983]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall5)
+[2020.09.07-02.02.24:831][497]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall5)
+[2020.09.07-02.02.31:277][851]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall5)
+[2020.09.07-02.02.41:260][446]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.02.42:627][526]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall5)
+[2020.09.07-02.02.51:971][ 84]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.02.53:106][150]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall5)
+[2020.09.07-02.02.55:135][270]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.02.57:055][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CoopLandscape_Map1" FILE="E:/UE4/UE4-master/Content/Maps/CoopLandscape_Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.07-02.02.57:069][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.09.07-02.02.57:382][381]LogSavePackage: Moving 'E:/UE4/UE4-master/Saved/CoopLandscape_Map11DF7DFB6476D5ABE24C158AFA1402F8C.tmp' to 'E:/UE4/UE4-master/Content/Maps/CoopLandscape_Map1.umap'
+[2020.09.07-02.02.57:401][381]AssetCheck: New page: 资产保存：CoopLandscape_Map1
+[2020.09.07-02.02.57:402][381]LogContentValidation: Display: 正在验证World /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1
+[2020.09.07-02.03.12:180][237]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall6)
+[2020.09.07-02.03.16:314][483]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.03.17:347][543]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall6)
+[2020.09.07-02.03.19:393][664]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.03.20:394][722]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall6)
+[2020.09.07-02.03.22:766][862]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.03.24:663][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CoopLandscape_Map1" FILE="E:/UE4/UE4-master/Content/Maps/CoopLandscape_Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.07-02.03.24:678][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.09.07-02.03.24:999][971]LogSavePackage: Moving 'E:/UE4/UE4-master/Saved/CoopLandscape_Map1E6330A2F49F1B880D3036AA4F14AECAB.tmp' to 'E:/UE4/UE4-master/Content/Maps/CoopLandscape_Map1.umap'
+[2020.09.07-02.03.25:018][971]AssetCheck: New page: 资产保存：CoopLandscape_Map1
+[2020.09.07-02.03.25:018][971]LogContentValidation: Display: 正在验证World /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1
+[2020.09.07-02.03.26:134][ 38]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall13)
+[2020.09.07-02.03.28:424][173]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.03.29:972][264]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall13)
+[2020.09.07-02.03.37:175][693]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.03.42:650][ 18]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall13)
+[2020.09.07-02.03.44:786][144]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.03.51:188][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CoopLandscape_Map1" FILE="E:/UE4/UE4-master/Content/Maps/CoopLandscape_Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.07-02.03.51:203][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.09.07-02.03.51:529][510]LogSavePackage: Moving 'E:/UE4/UE4-master/Saved/CoopLandscape_Map1D677228F4424DC16674467B746391B21.tmp' to 'E:/UE4/UE4-master/Content/Maps/CoopLandscape_Map1.umap'
+[2020.09.07-02.03.51:548][510]AssetCheck: New page: 资产保存：CoopLandscape_Map1
+[2020.09.07-02.03.51:548][510]LogContentValidation: Display: 正在验证World /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1
+[2020.09.07-02.04.00:338][ 13]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall14)
+[2020.09.07-02.04.03:648][209]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.04.04:532][260]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall14)
+[2020.09.07-02.04.06:879][399]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.04.12:215][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CoopLandscape_Map1" FILE="E:/UE4/UE4-master/Content/Maps/CoopLandscape_Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.07-02.04.12:229][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.09.07-02.04.12:555][709]LogSavePackage: Moving 'E:/UE4/UE4-master/Saved/CoopLandscape_Map19AC10DD540E011F687B04D9F1DFA3CF2.tmp' to 'E:/UE4/UE4-master/Content/Maps/CoopLandscape_Map1.umap'
+[2020.09.07-02.04.12:575][709]AssetCheck: New page: 资产保存：CoopLandscape_Map1
+[2020.09.07-02.04.12:575][709]LogContentValidation: Display: 正在验证World /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1
+[2020.09.07-02.04.21:677][200]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall8)
+[2020.09.07-02.04.27:989][577]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.04.28:967][633]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall8)
+[2020.09.07-02.04.33:985][931]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.04.38:753][194]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall8)
+[2020.09.07-02.04.41:582][361]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.04.50:382][849]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall19)
+[2020.09.07-02.04.52:812][992]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.04.59:521][374]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall10)
+[2020.09.07-02.05.03:412][602]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.05.04:280][652]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall10)
+[2020.09.07-02.05.08:576][907]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.05.09:163][940]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall19)
+[2020.09.07-02.05.11:807][ 96]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.05.12:860][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CoopLandscape_Map1" FILE="E:/UE4/UE4-master/Content/Maps/CoopLandscape_Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.07-02.05.12:875][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.09.07-02.05.13:194][154]LogSavePackage: Moving 'E:/UE4/UE4-master/Saved/CoopLandscape_Map1D10543B64C22569035D822A414F73999.tmp' to 'E:/UE4/UE4-master/Content/Maps/CoopLandscape_Map1.umap'
+[2020.09.07-02.05.13:212][154]AssetCheck: New page: 资产保存：CoopLandscape_Map1
+[2020.09.07-02.05.13:212][154]LogContentValidation: Display: 正在验证World /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1
+[2020.09.07-02.05.30:236][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CoopLandscape_Map1" FILE="E:/UE4/UE4-master/Content/Maps/CoopLandscape_Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.07-02.05.30:248][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.09.07-02.05.30:572][126]LogSavePackage: Moving 'E:/UE4/UE4-master/Saved/CoopLandscape_Map110E01CC3462BC07AFD186C8BB463228B.tmp' to 'E:/UE4/UE4-master/Content/Maps/CoopLandscape_Map1.umap'
+[2020.09.07-02.05.30:590][126]AssetCheck: New page: 资产保存：CoopLandscape_Map1
+[2020.09.07-02.05.30:590][126]LogContentValidation: Display: 正在验证World /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1
+[2020.09.07-02.08.10:419][387]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MINICAMERA/minicamera.minicamera
+[2020.09.07-02.08.11:725][387]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 125 classes and 0 folders.
+[2020.09.07-02.08.17:674][542]LogHttp: Warning: 0000027C83773900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B276A1C9C-4B2E-81B8-D374-7FA13BB57A57%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=01f5a4644a328f57fcc08d92a3f0db23%7Ce5ab402bd4b14819ac60d155fbddd7a3%7C4b1d1682-5fc6-4f75-a109-38ffb7b92f82&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.09.07-02.08.17:674][542]LogHttp: Warning: 0000027C83773900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.09.07-02.08.17:674][542]LogHttp: Warning: 0000027C83773900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x27cc18cbf70 [can pipeline])
+[2020.09.07-02.08.17:674][542]LogHttp: Warning: 0000027C83773900: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2020.09.07-02.08.17:674][542]LogHttp: Warning: 0000027C83773900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.194.76.214) port 443 (#2))
+[2020.09.07-02.08.17:674][542]LogHttp: Warning: 0000027C83773900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.09.07-02.08.17:674][542]LogHttp: Warning: 0000027C83773900: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.09.07-02.08.17:674][542]LogHttp: Warning: 0000027C83773900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.09.07-02.08.17:674][542]LogHttp: Warning: 0000027C83773900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.09.07-02.08.17:674][542]LogHttp: Warning: 0000027C83773900: libcurl info message cache 7 (Closing connection 2)
+[2020.09.07-02.08.17:674][542]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B276A1C9C-4B2E-81B8-D374-7FA13BB57A57%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=01f5a4644a328f57fcc08d92a3f0db23%7Ce5ab402bd4b14819ac60d155fbddd7a3%7C4b1d1682-5fc6-4f75-a109-38ffb7b92f82&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.09.07-02.08.18:280][578]LogSlate: Window 'minicamera' being destroyed
+[2020.09.07-02.08.18:390][578]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.08.18:390][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.08.18:692][578]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MINICAMERA/minicamera.minicamera
+[2020.09.07-02.08.19:511][578]LogSlate: Took 0.028081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.09.07-02.08.24:802][833]LogSlate: Took 0.000385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.07-02.11.01:238][954]LogEditorViewport: Clicking on Actor (LMB): minicamera_C (minicamera)
+[2020.09.07-02.11.09:272][425]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.11.19:247][993]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.09.07-02.11.24:583][277]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.11.25:976][355]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.11.26:777][402]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.09.07-02.11.37:605][ 44]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.11.38:638][102]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.09.07-02.11.44:527][448]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.11.45:773][519]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.11.46:608][568]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.09.07-02.11.47:767][631]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.11.49:517][732]LogTemp: Repeating last play command: 选中的视口
+[2020.09.07-02.11.49:802][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.11.49:830][732]PIE: New page: PIE会话：CoopLandscape_Map1（2020年9月7日 下午6:11:49）
+[2020.09.07-02.11.49:947][732]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.09.07-02.11.50:028][732]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.09.07-02.11.50:055][732]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CoopLandscape_Map1
+[2020.09.07-02.11.50:182][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.126773s)
+[2020.09.07-02.11.50:210][732]LogAIModule: Creating AISystem for world CoopLandscape_Map1
+[2020.09.07-02.11.50:210][732]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027D26B73600), frame # 34732
+[2020.09.07-02.11.50:210][732]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027D286AFD80), frame # 34732
+[2020.09.07-02.11.50:211][732]LogPlayLevel: PIE: World Init took: (0.028462s)
+[2020.09.07-02.11.50:245][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1 to /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1 (0.155655s)
+[2020.09.07-02.11.50:340][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.09.07-02.11.50:346][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.11.50:346][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.11.50:346][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.11.50:346][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.11.50:346][732]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.11.50:346][732]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.11.50:346][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.11.50:346][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.11.50:347][732]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.11.50:347][732]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.11.50:355][732]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.11.50:355][732]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.11.50:399][732]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek High Definition Audio)
+[2020.09.07-02.11.50:399][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.07-02.11.50:399][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.07-02.11.50:399][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.07-02.11.50:400][732]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.07-02.11.50:420][732]LogInit: FAudioDevice initialized.
+[2020.09.07-02.11.50:544][732]LogLoad: Game class is 'TwinStickMode_C'
+[2020.09.07-02.11.50:714][732]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1 up for play (max tick rate 60) at 2020.09.07-10.11.50
+[2020.09.07-02.11.50:916][732]LogWorld: Bringing up level for play took: 0.213358
+[2020.09.07-02.11.50:918][732]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.09.07-02.11.51:152][732]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2020.09.07-02.11.51:456][732]PIE: 登陆的服务器
+[2020.09.07-02.11.51:459][732]PIE: PIE总开始时间：1.885秒。
+[2020.09.07-02.11.51:504][732]LogBlueprintUserMessages: [SunLight_2] 白天降临
+[2020.09.07-02.11.52:191][734]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2426.487 Y=12667.525 Z=24.229] for [EnemyCharacter_C]
+[2020.09.07-02.11.52:492][743]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2303.823 Y=12529.979 Z=60.766] for [EnemyCharacter_C]
+[2020.09.07-02.11.53:368][787]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2348.649 Y=12790.200 Z=69.384] for [EnemyCharacter_C]
+[2020.09.07-02.11.53:895][805]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2120.478 Y=12863.888 Z=42.521] for [EnemyCharacter_C]
+[2020.09.07-02.11.54:405][817]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2423.622 Y=12962.214 Z=78.896] for [EnemyCharacter_C]
+[2020.09.07-02.11.55:934][851]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2330.701 Y=12787.525 Z=30.621] for [EnemyCharacter_C]
+[2020.09.07-02.11.56:442][858]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2028.647 Y=12785.930 Z=77.568] for [EnemyCharacter_C]
+[2020.09.07-02.11.56:931][869]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2312.859 Y=12923.831 Z=79.001] for [EnemyCharacter_C]
+[2020.09.07-02.11.57:414][884]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2437.667 Y=12459.577 Z=31.451] for [EnemyCharacter_C]
+[2020.09.07-02.11.58:418][931]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2400.823 Y=12857.894 Z=65.278] for [EnemyCharacter_C]
+[2020.09.07-02.11.58:930][955]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2406.096 Y=12511.061 Z=21.646] for [EnemyCharacter_C]
+[2020.09.07-02.11.59:424][978]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2552.737 Y=12559.837 Z=25.115] for [EnemyCharacter_C]
+[2020.09.07-02.12.01:460][ 63]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2510.337 Y=12555.422 Z=14.038] for [EnemyCharacter_C]
+[2020.09.07-02.12.01:973][ 78]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2307.269 Y=12701.332 Z=59.330] for [EnemyCharacter_C]
+[2020.09.07-02.12.03:072][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.12.03:073][113]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CoopLandscape_Map1
+[2020.09.07-02.12.03:074][113]LogWorld: UWorld::CleanupWorld for CoopLandscape_Map1, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.12.03:077][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.12.03:089][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.12.03:133][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.12.03:164][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.12.03:442][113]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027D26B73600), frame # 35113
+[2020.09.07-02.12.03:442][113]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027D286AFD80), frame # 35113
+[2020.09.07-02.12.03:448][113]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.09.07-02.12.03:490][114]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.09.07-02.14.24:975][268]LogAssetEditorSubsystem: Opening Asset editor for CanvasRenderTarget2D /Game/Blueprints/MINICAMERA/新建文件夹/minimap_Target.minimap_Target
+[2020.09.07-02.14.25:141][268]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2020.09.07-02.14.32:373][640]LogSlate: Window 'minimap_Target' being destroyed
+[2020.09.07-02.14.32:382][640]LogSlate: Window 'minimap_Target' being destroyed
+[2020.09.07-02.14.32:434][640]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.14.32:434][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.15.44:255][921]LogUObjectHash: Compacting FUObjectHashTables data took   8.25ms
+[2020.09.07-02.15.44:294][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CoopLandscape_Map1" FILE="E:/UE4/UE4-master/Saved/Autosaves/Game/Maps/CoopLandscape_Map1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.09.07-02.15.44:659][921]LogSavePackage: Moving 'E:/UE4/UE4-master/Saved/CoopLandscape_Map1_Auto16BEFEDAB467700493AC236A228ADE87C.tmp' to 'E:/UE4/UE4-master/Saved/Autosaves/Game/Maps/CoopLandscape_Map1_Auto1.umap'
+[2020.09.07-02.15.44:660][921]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CoopLandscape_Map1' took 0.690
+[2020.09.07-02.15.44:660][921]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.690
+[2020.09.07-02.18.53:247][620]LogAssetEditorSubsystem: Opening Asset editor for CanvasRenderTarget2D /Game/Blueprints/MINICAMERA/新建文件夹/minimap_Target.minimap_Target
+[2020.09.07-02.18.58:899][916]LogSlate: Window 'minimap_Target' being destroyed
+[2020.09.07-02.18.58:911][916]LogSlate: Window 'minimap_Target' being destroyed
+[2020.09.07-02.21.16:975][894]LogTemp: Repeating last play command: 选中的视口
+[2020.09.07-02.21.16:984][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.21.16:984][894]PIE: New page: PIE会话：CoopLandscape_Map1（2020年9月7日 下午6:21:16）
+[2020.09.07-02.21.16:984][894]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CoopLandscape_Map1
+[2020.09.07-02.21.17:021][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036680s)
+[2020.09.07-02.21.17:023][894]LogAIModule: Creating AISystem for world CoopLandscape_Map1
+[2020.09.07-02.21.17:023][894]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027D226BA600), frame # 53894
+[2020.09.07-02.21.17:023][894]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027D0E674F40), frame # 53894
+[2020.09.07-02.21.17:024][894]LogPlayLevel: PIE: World Init took: (0.002540s)
+[2020.09.07-02.21.17:024][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1 to /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1 (0.039426s)
+[2020.09.07-02.21.17:544][894]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.09.07-02.21.17:551][894]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.21.17:551][894]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.21.17:551][894]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.21.17:551][894]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.21.17:551][894]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.21.17:551][894]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.21.17:551][894]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.21.17:551][894]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.21.17:551][894]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.21.17:551][894]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.21.17:559][894]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.21.17:559][894]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.21.17:597][894]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek High Definition Audio)
+[2020.09.07-02.21.17:598][894]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.07-02.21.17:598][894]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.07-02.21.17:598][894]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.07-02.21.17:598][894]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.07-02.21.17:615][894]LogInit: FAudioDevice initialized.
+[2020.09.07-02.21.17:625][894]LogLoad: Game class is 'TwinStickMode_C'
+[2020.09.07-02.21.17:632][894]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1 up for play (max tick rate 60) at 2020.09.07-10.21.17
+[2020.09.07-02.21.17:632][894]LogWorld: Bringing up level for play took: 0.005525
+[2020.09.07-02.21.17:632][894]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.09.07-02.21.17:663][894]PIE: 登陆的服务器
+[2020.09.07-02.21.17:664][894]PIE: PIE总开始时间：0.685秒。
+[2020.09.07-02.21.17:664][894]LogBlueprintUserMessages: [SunLight_2] 白天降临
+[2020.09.07-02.21.17:790][899]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2413.180 Y=12734.285 Z=20.269] for [EnemyCharacter_C]
+[2020.09.07-02.21.18:279][927]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2141.344 Y=12812.099 Z=77.910] for [EnemyCharacter_C]
+[2020.09.07-02.21.18:779][957]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2380.923 Y=12812.275 Z=79.016] for [EnemyCharacter_C]
+[2020.09.07-02.21.19:279][987]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2234.933 Y=12473.226 Z=52.504] for [EnemyCharacter_C]
+[2020.09.07-02.21.19:779][ 17]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2180.316 Y=12702.444 Z=48.575] for [EnemyCharacter_C]
+[2020.09.07-02.21.20:282][ 35]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2549.520 Y=12693.646 Z=32.906] for [EnemyCharacter_C]
+[2020.09.07-02.21.20:799][ 45]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2074.984 Y=12800.625 Z=33.377] for [EnemyCharacter_C]
+[2020.09.07-02.21.21:169][ 59]LogBlueprintUserMessages: [Wall_2] 击中墙体
+[2020.09.07-02.21.21:359][ 64]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2161.981 Y=12628.724 Z=69.936] for [EnemyCharacter_C]
+[2020.09.07-02.21.21:533][ 70]LogBlueprintUserMessages: [Wall_2] 击中墙体
+[2020.09.07-02.21.22:928][106]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2416.608 Y=12937.415 Z=84.245] for [EnemyCharacter_C]
+[2020.09.07-02.21.23:424][127]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2530.834 Y=12857.313 Z=84.033] for [EnemyCharacter_C]
+[2020.09.07-02.21.23:929][149]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2119.845 Y=12794.953 Z=40.189] for [EnemyCharacter_C]
+[2020.09.07-02.21.24:429][171]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2202.975 Y=12716.334 Z=45.287] for [EnemyCharacter_C]
+[2020.09.07-02.21.25:925][241]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2583.570 Y=12861.600 Z=76.325] for [EnemyCharacter_C]
+[2020.09.07-02.21.26:431][265]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2535.299 Y=12481.282 Z=16.602] for [EnemyCharacter_C]
+[2020.09.07-02.21.26:924][288]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2571.212 Y=12766.835 Z=44.552] for [EnemyCharacter_C]
+[2020.09.07-02.21.28:472][360]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2465.477 Y=12772.395 Z=63.293] for [EnemyCharacter_C]
+[2020.09.07-02.21.28:971][383]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2277.033 Y=12475.756 Z=65.822] for [EnemyCharacter_C]
+[2020.09.07-02.21.29:499][406]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2167.255 Y=12473.049 Z=55.517] for [EnemyCharacter_C]
+[2020.09.07-02.21.29:969][428]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2407.977 Y=12938.994 Z=87.605] for [EnemyCharacter_C]
+[2020.09.07-02.21.30:481][452]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2502.726 Y=12681.625 Z=56.005] for [EnemyCharacter_C]
+[2020.09.07-02.21.30:970][474]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2188.367 Y=12601.508 Z=40.482] for [EnemyCharacter_C]
+[2020.09.07-02.21.31:477][497]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2210.955 Y=12483.957 Z=55.946] for [EnemyCharacter_C]
+[2020.09.07-02.21.31:962][518]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2305.441 Y=12544.819 Z=39.249] for [EnemyCharacter_C]
+[2020.09.07-02.21.32:467][539]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2424.765 Y=12603.038 Z=32.842] for [EnemyCharacter_C]
+[2020.09.07-02.21.33:255][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.21.33:255][571]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CoopLandscape_Map1
+[2020.09.07-02.21.33:256][571]LogWorld: UWorld::CleanupWorld for CoopLandscape_Map1, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.21.33:259][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.21.33:278][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.21.33:282][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.21.33:301][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.21.33:324][571]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027D0E674F40), frame # 54571
+[2020.09.07-02.21.33:324][571]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027D226BA600), frame # 54571
+[2020.09.07-02.21.33:327][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.09.07-02.21.33:352][572]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.09.07-02.21.37:869][807]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1:PersistentLevel.CoopLandscape_Map1
+[2020.09.07-02.26.50:049][380]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MINICAMERA/minicamera.minicamera
+[2020.09.07-02.26.53:153][512]LogRenderer: Reallocating scene render targets to support 964x536 Format 10 NumSamples 1 (Frame:1).
+[2020.09.07-02.27.42:301][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MINICAMERA/minicamera" FILE="E:/UE4/UE4-master/Content/Blueprints/MINICAMERA/minicamera.uasset" SILENT=true
+[2020.09.07-02.27.42:333][ 39]LogSavePackage: Moving 'E:/UE4/UE4-master/Saved/minicamera2E5966E6424155A6107C56928C99A5FB.tmp' to 'E:/UE4/UE4-master/Content/Blueprints/MINICAMERA/minicamera.uasset'
+[2020.09.07-02.27.42:384][ 39]AssetCheck: New page: 资产保存：minicamera
+[2020.09.07-02.27.42:384][ 39]LogContentValidation: Display: 正在验证Blueprint /Game/Blueprints/MINICAMERA/minicamera.minicamera
+[2020.09.07-02.27.45:397][197]LogTemp: Repeating last play command: 选中的视口
+[2020.09.07-02.27.45:412][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.27.45:413][197]PIE: New page: PIE会话：CoopLandscape_Map1（2020年9月7日 下午6:27:45）
+[2020.09.07-02.27.45:413][197]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CoopLandscape_Map1
+[2020.09.07-02.27.45:453][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040580s)
+[2020.09.07-02.27.45:455][197]LogAIModule: Creating AISystem for world CoopLandscape_Map1
+[2020.09.07-02.27.45:455][197]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027D0EE2FE00), frame # 61197
+[2020.09.07-02.27.45:455][197]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027D20B2A340), frame # 61197
+[2020.09.07-02.27.45:455][197]LogPlayLevel: PIE: World Init took: (0.001939s)
+[2020.09.07-02.27.45:456][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1 to /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1 (0.042723s)
+[2020.09.07-02.27.45:487][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.09.07-02.27.45:490][197]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.27.45:490][197]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.27.45:491][197]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.27.45:491][197]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.27.45:491][197]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.27.45:491][197]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.27.45:491][197]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.27.45:491][197]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.27.45:491][197]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.27.45:491][197]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.27.45:498][197]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.27.45:498][197]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.27.45:533][197]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek High Definition Audio)
+[2020.09.07-02.27.45:534][197]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.07-02.27.45:534][197]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.07-02.27.45:534][197]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.07-02.27.45:534][197]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.07-02.27.45:549][197]LogInit: FAudioDevice initialized.
+[2020.09.07-02.27.45:569][197]LogLoad: Game class is 'TwinStickMode_C'
+[2020.09.07-02.27.45:576][197]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1 up for play (max tick rate 60) at 2020.09.07-10.27.45
+[2020.09.07-02.27.45:577][197]LogWorld: Bringing up level for play took: 0.006696
+[2020.09.07-02.27.45:577][197]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.09.07-02.27.45:581][197]PIE: 登陆的服务器
+[2020.09.07-02.27.45:582][197]PIE: PIE总开始时间：0.177秒。
+[2020.09.07-02.27.45:583][197]LogBlueprintUserMessages: [SunLight_2] 白天降临
+[2020.09.07-02.27.46:926][270]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2577.031 Y=12724.811 Z=30.797] for [EnemyCharacter_C]
+[2020.09.07-02.27.47:419][296]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2267.945 Y=12671.764 Z=37.293] for [EnemyCharacter_C]
+[2020.09.07-02.27.47:942][319]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2379.429 Y=12674.471 Z=52.579] for [EnemyCharacter_C]
+[2020.09.07-02.27.48:422][340]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2149.588 Y=12724.263 Z=48.072] for [EnemyCharacter_C]
+[2020.09.07-02.27.48:934][361]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2221.221 Y=12839.460 Z=38.846] for [EnemyCharacter_C]
+[2020.09.07-02.27.49:708][367]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2448.900 Y=12518.409 Z=26.182] for [EnemyCharacter_C]
+[2020.09.07-02.27.50:557][381]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2443.451 Y=12554.616 Z=32.032] for [EnemyCharacter_C]
+[2020.09.07-02.27.51:279][393]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2564.005 Y=12489.372 Z=13.179] for [EnemyCharacter_C]
+[2020.09.07-02.27.52:131][415]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2316.884 Y=12879.438 Z=37.161] for [EnemyCharacter_C]
+[2020.09.07-02.27.52:741][439]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2125.804 Y=12659.533 Z=27.713] for [EnemyCharacter_C]
+[2020.09.07-02.27.53:222][460]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2338.067 Y=12795.759 Z=23.536] for [EnemyCharacter_C]
+[2020.09.07-02.27.53:733][483]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2239.362 Y=12868.529 Z=44.388] for [EnemyCharacter_C]
+[2020.09.07-02.27.54:624][532]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2105.149 Y=12532.799 Z=60.280] for [EnemyCharacter_C]
+[2020.09.07-02.27.55:124][554]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2079.730 Y=12799.852 Z=76.911] for [EnemyCharacter_C]
+[2020.09.07-02.27.55:626][572]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2122.605 Y=12650.525 Z=39.107] for [EnemyCharacter_C]
+[2020.09.07-02.27.56:124][596]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2012.721 Y=12914.888 Z=28.736] for [EnemyCharacter_C]
+[2020.09.07-02.27.57:167][628]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2578.666 Y=12760.051 Z=51.356] for [EnemyCharacter_C]
+[2020.09.07-02.27.57:640][650]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2267.646 Y=12517.797 Z=20.108] for [EnemyCharacter_C]
+[2020.09.07-02.27.58:124][673]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2203.766 Y=12595.643 Z=65.988] for [EnemyCharacter_C]
+[2020.09.07-02.27.58:639][697]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2235.829 Y=12916.468 Z=47.855] for [EnemyCharacter_C]
+[2020.09.07-02.27.59:132][720]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2199.934 Y=12811.486 Z=64.828] for [EnemyCharacter_C]
+[2020.09.07-02.28.00:129][767]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2450.623 Y=12718.510 Z=41.058] for [EnemyCharacter_C]
+[2020.09.07-02.28.00:628][790]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2286.069 Y=12837.961 Z=73.193] for [EnemyCharacter_C]
+[2020.09.07-02.28.01:140][814]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2216.932 Y=12740.166 Z=60.639] for [EnemyCharacter_C]
+[2020.09.07-02.28.01:626][837]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2209.356 Y=12693.163 Z=26.419] for [EnemyCharacter_C]
+[2020.09.07-02.28.02:125][860]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2107.048 Y=12789.008 Z=65.407] for [EnemyCharacter_C]
+[2020.09.07-02.28.02:444][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.28.02:444][873]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CoopLandscape_Map1
+[2020.09.07-02.28.02:445][873]LogWorld: UWorld::CleanupWorld for CoopLandscape_Map1, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.28.02:446][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.28.02:458][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.28.02:461][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.28.02:505][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.28.02:508][873]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027D20B2A340), frame # 61873
+[2020.09.07-02.28.02:508][873]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027D0EE2FE00), frame # 61873
+[2020.09.07-02.28.02:510][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.09.07-02.28.02:535][874]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.09.07-02.29.43:708][389]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.29.44:281][417]LogEditorViewport: Clicking on Actor (LMB): minicamera_C (minicamera)
+[2020.09.07-02.29.48:129][637]Cmd: DELETE
+[2020.09.07-02.29.48:129][637]Cmd: ACTOR DELETE
+[2020.09.07-02.29.48:696][637]LogEditorActor: Deleted Actor: minicamera_C
+[2020.09.07-02.29.48:724][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.09.07-02.29.48:726][637]LogEditorActor: Deleted 1 Actors (0.116 secs)
+[2020.09.07-02.29.48:983][653]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2020.09.07-02.29.50:543][721]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.29.51:516][777]LogTemp: Repeating last play command: 选中的视口
+[2020.09.07-02.29.51:525][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.29.51:525][777]PIE: New page: PIE会话：CoopLandscape_Map1（2020年9月7日 下午6:29:51）
+[2020.09.07-02.29.51:526][777]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CoopLandscape_Map1
+[2020.09.07-02.29.51:560][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034575s)
+[2020.09.07-02.29.51:562][777]LogAIModule: Creating AISystem for world CoopLandscape_Map1
+[2020.09.07-02.29.51:563][777]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027D28089200), frame # 63777
+[2020.09.07-02.29.51:563][777]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027D1F0E7880), frame # 63777
+[2020.09.07-02.29.51:563][777]LogPlayLevel: PIE: World Init took: (0.002411s)
+[2020.09.07-02.29.51:563][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1 to /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1 (0.037237s)
+[2020.09.07-02.29.51:590][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.09.07-02.29.51:592][777]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.29.51:593][777]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.29.51:593][777]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.29.51:593][777]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.29.51:593][777]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.29.51:593][777]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.29.51:593][777]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.29.51:593][777]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.29.51:593][777]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.29.51:593][777]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.29.51:599][777]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.29.51:599][777]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.29.51:635][777]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek High Definition Audio)
+[2020.09.07-02.29.51:635][777]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.07-02.29.51:635][777]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.07-02.29.51:635][777]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.07-02.29.51:636][777]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.07-02.29.51:652][777]LogInit: FAudioDevice initialized.
+[2020.09.07-02.29.51:660][777]LogLoad: Game class is 'TwinStickMode_C'
+[2020.09.07-02.29.51:666][777]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1 up for play (max tick rate 60) at 2020.09.07-10.29.51
+[2020.09.07-02.29.51:666][777]LogWorld: Bringing up level for play took: 0.005721
+[2020.09.07-02.29.51:667][777]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.09.07-02.29.51:670][777]PIE: 登陆的服务器
+[2020.09.07-02.29.51:671][777]PIE: PIE总开始时间：0.152秒。
+[2020.09.07-02.29.51:672][777]LogBlueprintUserMessages: [SunLight_2] 白天降临
+[2020.09.07-02.29.52:024][795]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2165.743 Y=12699.463 Z=33.231] for [EnemyCharacter_C]
+[2020.09.07-02.29.53:022][855]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2527.652 Y=12760.599 Z=54.870] for [EnemyCharacter_C]
+[2020.09.07-02.29.54:365][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.29.54:365][933]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CoopLandscape_Map1
+[2020.09.07-02.29.54:365][933]LogWorld: UWorld::CleanupWorld for CoopLandscape_Map1, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.29.54:366][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.29.54:373][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.29.54:376][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.29.54:424][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.29.54:426][933]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027D1F0E7880), frame # 63933
+[2020.09.07-02.29.54:426][933]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027D28089200), frame # 63933
+[2020.09.07-02.29.54:429][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.09.07-02.29.54:449][934]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.09.07-02.30.04:893][555]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.09.07-02.30.06:511][647]Cmd: DELETE
+[2020.09.07-02.30.06:511][647]Cmd: ACTOR DELETE
+[2020.09.07-02.30.06:517][647]LogEditorActor: Deleted Actor: CameraActor
+[2020.09.07-02.30.06:556][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.09.07-02.30.06:558][647]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2020.09.07-02.30.08:810][782]LogTemp: Repeating last play command: 选中的视口
+[2020.09.07-02.30.08:819][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.30.08:819][782]PIE: New page: PIE会话：CoopLandscape_Map1（2020年9月7日 下午6:30:08）
+[2020.09.07-02.30.08:820][782]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CoopLandscape_Map1
+[2020.09.07-02.30.08:854][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034741s)
+[2020.09.07-02.30.08:856][782]LogAIModule: Creating AISystem for world CoopLandscape_Map1
+[2020.09.07-02.30.08:856][782]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027D2D57CA00), frame # 64782
+[2020.09.07-02.30.08:856][782]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027D0F77C400), frame # 64782
+[2020.09.07-02.30.08:857][782]LogPlayLevel: PIE: World Init took: (0.002155s)
+[2020.09.07-02.30.08:857][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1 to /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1 (0.037185s)
+[2020.09.07-02.30.08:884][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.09.07-02.30.08:885][782]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.30.08:885][782]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.30.08:885][782]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.30.08:885][782]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.30.08:885][782]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.30.08:885][782]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.30.08:885][782]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.30.08:885][782]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.30.08:886][782]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.30.08:886][782]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.30.08:892][782]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.30.08:892][782]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.30.08:927][782]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek High Definition Audio)
+[2020.09.07-02.30.08:927][782]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.07-02.30.08:927][782]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.07-02.30.08:927][782]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.07-02.30.08:928][782]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.07-02.30.08:944][782]LogInit: FAudioDevice initialized.
+[2020.09.07-02.30.08:956][782]LogLoad: Game class is 'TwinStickMode_C'
+[2020.09.07-02.30.08:963][782]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1 up for play (max tick rate 60) at 2020.09.07-10.30.08
+[2020.09.07-02.30.08:963][782]LogWorld: Bringing up level for play took: 0.006475
+[2020.09.07-02.30.08:964][782]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.09.07-02.30.08:968][782]PIE: 登陆的服务器
+[2020.09.07-02.30.08:968][782]PIE: PIE总开始时间：0.154秒。
+[2020.09.07-02.30.08:969][782]LogBlueprintUserMessages: [SunLight_2] 白天降临
+[2020.09.07-02.30.09:314][800]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2105.360 Y=12755.168 Z=33.233] for [EnemyCharacter_C]
+[2020.09.07-02.30.09:814][830]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2475.497 Y=12692.438 Z=17.732] for [EnemyCharacter_C]
+[2020.09.07-02.30.10:816][890]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2363.292 Y=12678.000 Z=58.617] for [EnemyCharacter_C]
+[2020.09.07-02.30.11:165][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.30.11:165][909]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CoopLandscape_Map1
+[2020.09.07-02.30.11:165][909]LogWorld: UWorld::CleanupWorld for CoopLandscape_Map1, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.30.11:166][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.30.11:171][909]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.30.11:176][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.30.11:200][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.30.11:227][909]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027D0F77C400), frame # 64909
+[2020.09.07-02.30.11:227][909]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027D2D57CA00), frame # 64909
+[2020.09.07-02.30.11:229][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.09.07-02.30.11:246][910]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.09.07-02.30.18:273][329]LogEditorViewport: Clicking on Actor (LMB): HeroCharacter_C (HeroCharacter)
+[2020.09.07-02.30.20:138][384]LogEditorViewport: Clicking on Actor (LMB): HeroCharacter_C (HeroCharacter)
+[2020.09.07-02.30.22:104][501]Cmd: DELETE
+[2020.09.07-02.30.22:104][501]Cmd: ACTOR DELETE
+[2020.09.07-02.30.22:110][501]LogEditorActor: Deleted Actor: HeroCharacter_C
+[2020.09.07-02.30.22:144][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.09.07-02.30.22:147][501]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.09.07-02.30.35:835][318]LogTemp: Repeating last play command: 选中的视口
+[2020.09.07-02.30.35:845][318]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.30.35:845][318]PIE: New page: PIE会话：CoopLandscape_Map1（2020年9月7日 下午6:30:35）
+[2020.09.07-02.30.35:845][318]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CoopLandscape_Map1
+[2020.09.07-02.30.35:878][318]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033909s)
+[2020.09.07-02.30.35:880][318]LogAIModule: Creating AISystem for world CoopLandscape_Map1
+[2020.09.07-02.30.35:880][318]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027D2853A600), frame # 66318
+[2020.09.07-02.30.35:880][318]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027D0F77D080), frame # 66318
+[2020.09.07-02.30.35:881][318]LogPlayLevel: PIE: World Init took: (0.002539s)
+[2020.09.07-02.30.35:881][318]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1 to /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1 (0.036680s)
+[2020.09.07-02.30.35:909][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.09.07-02.30.35:910][318]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.30.35:910][318]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.30.35:910][318]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.30.35:911][318]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.30.35:911][318]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.30.35:911][318]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.30.35:911][318]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.30.35:911][318]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.30.35:912][318]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.30.35:912][318]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.30.35:918][318]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.30.35:918][318]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.30.35:953][318]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek High Definition Audio)
+[2020.09.07-02.30.35:953][318]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.07-02.30.35:953][318]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.07-02.30.35:953][318]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.07-02.30.35:954][318]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.07-02.30.35:970][318]LogInit: FAudioDevice initialized.
+[2020.09.07-02.30.35:981][318]LogLoad: Game class is 'TwinStickMode_C'
+[2020.09.07-02.30.35:987][318]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1 up for play (max tick rate 60) at 2020.09.07-10.30.35
+[2020.09.07-02.30.35:988][318]LogWorld: Bringing up level for play took: 0.005773
+[2020.09.07-02.30.35:988][318]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.09.07-02.30.36:044][318]PIE: 登陆的服务器
+[2020.09.07-02.30.36:044][318]PIE: PIE总开始时间：0.206秒。
+[2020.09.07-02.30.36:045][318]LogBlueprintUserMessages: [SunLight_2] 白天降临
+[2020.09.07-02.30.36:340][333]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2363.433 Y=12727.646 Z=24.356] for [EnemyCharacter_C]
+[2020.09.07-02.30.36:839][363]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2443.767 Y=12475.015 Z=12.542] for [EnemyCharacter_C]
+[2020.09.07-02.30.37:340][393]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2270.389 Y=12599.445 Z=65.412] for [EnemyCharacter_C]
+[2020.09.07-02.30.38:339][453]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2301.872 Y=12704.346 Z=42.220] for [EnemyCharacter_C]
+[2020.09.07-02.30.38:838][483]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2310.029 Y=12735.783 Z=28.653] for [EnemyCharacter_C]
+[2020.09.07-02.30.39:340][513]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2469.362 Y=12677.259 Z=76.525] for [EnemyCharacter_C]
+[2020.09.07-02.30.39:853][543]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2524.506 Y=12957.187 Z=62.577] for [EnemyCharacter_C]
+[2020.09.07-02.30.40:984][596]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2047.192 Y=12794.244 Z=14.319] for [EnemyCharacter_C]
+[2020.09.07-02.30.41:506][603]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2151.663 Y=12682.189 Z=55.917] for [EnemyCharacter_C]
+[2020.09.07-02.30.42:637][668]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2320.998 Y=12705.231 Z=44.232] for [EnemyCharacter_C]
+[2020.09.07-02.30.43:643][726]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2060.271 Y=12583.187 Z=26.683] for [EnemyCharacter_C]
+[2020.09.07-02.30.44:143][756]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2495.132 Y=12681.738 Z=81.745] for [EnemyCharacter_C]
+[2020.09.07-02.30.44:643][786]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2145.246 Y=12571.229 Z=55.551] for [EnemyCharacter_C]
+[2020.09.07-02.30.45:143][816]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2326.043 Y=12585.313 Z=17.544] for [EnemyCharacter_C]
+[2020.09.07-02.30.45:183][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.30.45:183][817]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CoopLandscape_Map1
+[2020.09.07-02.30.45:184][817]LogWorld: UWorld::CleanupWorld for CoopLandscape_Map1, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.30.45:185][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.30.45:192][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.30.45:196][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.30.45:222][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.30.45:346][817]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027D0F77D080), frame # 66817
+[2020.09.07-02.30.45:346][817]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027D2853A600), frame # 66817
+[2020.09.07-02.30.45:349][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.09.07-02.30.45:373][818]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.09.07-02.31.21:547][913]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.31.24:212][ 70]Cmd: TRANSACTION UNDO
+[2020.09.07-02.31.24:212][ 70]LogEditorTransaction: Undo 点击Actor
+[2020.09.07-02.31.51:560][608]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.09.07-02.32.00:570][118]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall6)
+[2020.09.07-02.32.02:842][251]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.32.08:563][563]LogSlate: Window 'minicamera' being destroyed
+[2020.09.07-02.32.08:578][563]LogSlate: Window 'minicamera' being destroyed
+[2020.09.07-02.32.08:583][563]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.32.08:583][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.32.08:626][563]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.32.08:626][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.33.39:793][984]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MINICAMERA/minicamera.minicamera
+[2020.09.07-02.33.43:155][ 55]LogSlate: Window 'minicamera' being destroyed
+[2020.09.07-02.33.43:164][ 55]LogSlate: Window 'minicamera' being destroyed
+[2020.09.07-02.33.43:166][ 55]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.33.43:166][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.33.58:374][891]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.34.08:462][487]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall12)
+[2020.09.07-02.34.12:232][711]LogEditorViewport: Clicking on Actor (LMB): Wall_C (Wall)
+[2020.09.07-02.34.31:604][857]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2020.09.07-02.34.40:168][327]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.34.57:468][348]Cmd: DELETE
+[2020.09.07-02.34.57:468][348]Cmd: ACTOR DELETE
+[2020.09.07-02.34.57:476][348]LogEditorActor: Deleted Actor: minicamera_C
+[2020.09.07-02.34.57:562][348]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.09.07-02.34.57:574][348]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2020.09.07-02.34.58:832][419]Cmd: DELETE
+[2020.09.07-02.34.58:833][419]Cmd: ACTOR DELETE
+[2020.09.07-02.34.58:841][419]LogEditorActor: Deleted Actor: minicamera_C
+[2020.09.07-02.34.58:870][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.09.07-02.34.58:872][419]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.09.07-02.35.16:849][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.09.07-02.35.32:715][367]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.07-02.35.35:232][367]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/MINICAMERA/minimap_UI.minimap_UI
+[2020.09.07-02.35.40:177][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.09.07-02.35.40:204][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.09.07-02.35.40:224][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.09.07-02.35.42:630][510]LogTemp: Repeating last play command: 选中的视口
+[2020.09.07-02.35.42:639][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.35.42:639][510]PIE: New page: PIE会话：CoopLandscape_Map1（2020年9月7日 下午6:35:42）
+[2020.09.07-02.35.42:661][510]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CoopLandscape_Map1
+[2020.09.07-02.35.42:698][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035900s)
+[2020.09.07-02.35.42:699][510]LogAIModule: Creating AISystem for world CoopLandscape_Map1
+[2020.09.07-02.35.42:699][510]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027D26B73C00), frame # 82510
+[2020.09.07-02.35.42:699][510]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027C920CB600), frame # 82510
+[2020.09.07-02.35.42:700][510]LogPlayLevel: PIE: World Init took: (0.002002s)
+[2020.09.07-02.35.42:700][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1 to /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1 (0.038337s)
+[2020.09.07-02.35.42:723][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.09.07-02.35.42:727][510]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.35.42:727][510]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.35.42:727][510]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.35.42:727][510]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.35.42:727][510]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.35.42:727][510]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.35.42:727][510]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.35.42:727][510]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.35.42:728][510]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.35.42:728][510]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.35.42:734][510]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.35.42:734][510]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.35.42:770][510]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek High Definition Audio)
+[2020.09.07-02.35.42:770][510]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.07-02.35.42:770][510]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.07-02.35.42:770][510]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.07-02.35.42:771][510]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.07-02.35.42:787][510]LogInit: FAudioDevice initialized.
+[2020.09.07-02.35.42:799][510]LogLoad: Game class is 'TwinStickMode_C'
+[2020.09.07-02.35.42:805][510]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1 up for play (max tick rate 60) at 2020.09.07-10.35.42
+[2020.09.07-02.35.42:806][510]LogWorld: Bringing up level for play took: 0.005525
+[2020.09.07-02.35.42:806][510]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.09.07-02.35.42:811][510]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_Create_ReturnValue
+	CoopLandscape_Map1_C /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1:PersistentLevel.CoopLandscape_Map1_C_8
+	Function /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1_C:ExecuteUbergraph_CoopLandscape_Map1:013B
+[2020.09.07-02.35.42:836][510]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_Create_ReturnValue"。 蓝图： CoopLandscape_Map1 函数： Execute Ubergraph Coop Landscape Map 1 图表： EventGraph 节点： 添加到视口
+[2020.09.07-02.35.42:838][510]PIE: 登陆的服务器
+[2020.09.07-02.35.42:840][510]PIE: PIE总开始时间：0.206秒。
+[2020.09.07-02.35.42:840][510]LogBlueprintUserMessages: [SunLight_2] 白天降临
+[2020.09.07-02.35.43:649][550]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2480.753 Y=12872.090 Z=58.637] for [EnemyCharacter_C]
+[2020.09.07-02.35.44:650][610]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2222.311 Y=12890.895 Z=67.028] for [EnemyCharacter_C]
+[2020.09.07-02.35.45:151][640]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2127.439 Y=12802.672 Z=16.248] for [EnemyCharacter_C]
+[2020.09.07-02.35.46:150][700]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2179.138 Y=12882.821 Z=38.197] for [EnemyCharacter_C]
+[2020.09.07-02.35.46:659][726]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2089.434 Y=12660.613 Z=56.649] for [EnemyCharacter_C]
+[2020.09.07-02.35.47:160][751]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2260.176 Y=12658.341 Z=32.432] for [EnemyCharacter_C]
+[2020.09.07-02.35.47:662][781]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2509.335 Y=12929.374 Z=68.925] for [EnemyCharacter_C]
+[2020.09.07-02.35.48:186][795]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2456.793 Y=12588.536 Z=86.401] for [EnemyCharacter_C]
+[2020.09.07-02.35.49:159][849]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2403.934 Y=12743.921 Z=45.524] for [EnemyCharacter_C]
+[2020.09.07-02.35.49:559][873]LogBlueprintUserMessages: [Wall7] 击中墙体
+[2020.09.07-02.35.49:593][875]LogBlueprintUserMessages: [Wall7] 击中墙体
+[2020.09.07-02.35.49:610][876]LogBlueprintUserMessages: [Wall7] 击中墙体
+[2020.09.07-02.35.49:662][879]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2548.149 Y=12552.474 Z=25.162] for [EnemyCharacter_C]
+[2020.09.07-02.35.49:843][890]LogBlueprintUserMessages: [Wall7] 击中墙体
+[2020.09.07-02.35.50:166][909]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2440.339 Y=12721.829 Z=58.307] for [EnemyCharacter_C]
+[2020.09.07-02.35.50:667][939]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2030.018 Y=12754.798 Z=55.853] for [EnemyCharacter_C]
+[2020.09.07-02.35.51:668][999]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2424.272 Y=12875.684 Z=72.619] for [EnemyCharacter_C]
+[2020.09.07-02.35.52:179][ 24]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2255.166 Y=12710.840 Z=19.961] for [EnemyCharacter_C]
+[2020.09.07-02.35.53:023][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.35.53:023][ 66]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CoopLandscape_Map1
+[2020.09.07-02.35.53:024][ 66]LogWorld: UWorld::CleanupWorld for CoopLandscape_Map1, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.35.53:025][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.35.53:150][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.35.53:154][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.35.53:176][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.35.53:207][ 66]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027C920CB600), frame # 83066
+[2020.09.07-02.35.53:207][ 66]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027D26B73C00), frame # 83066
+[2020.09.07-02.35.53:210][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.09.07-02.35.53:393][ 66]LogSlate: Took 0.013840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.09.07-02.35.53:409][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.09.07-02.35.55:186][164]LogSlate: Window '消息日志' being destroyed
+[2020.09.07-02.35.55:194][164]LogSlate: Window '消息日志' being destroyed
+[2020.09.07-02.35.56:322][231]Cmd: TRANSACTION UNDO
+[2020.09.07-02.35.56:322][231]LogEditorTransaction: Undo 删除Actor
+[2020.09.07-02.35.59:980][430]LogTemp: Repeating last play command: 选中的视口
+[2020.09.07-02.35.59:989][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.35.59:989][430]PIE: New page: PIE会话：CoopLandscape_Map1（2020年9月7日 下午6:35:59）
+[2020.09.07-02.35.59:989][430]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CoopLandscape_Map1
+[2020.09.07-02.36.00:025][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035930s)
+[2020.09.07-02.36.00:027][430]LogAIModule: Creating AISystem for world CoopLandscape_Map1
+[2020.09.07-02.36.00:027][430]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027D1FFBB400), frame # 83430
+[2020.09.07-02.36.00:027][430]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027CE42ED580), frame # 83430
+[2020.09.07-02.36.00:027][430]LogPlayLevel: PIE: World Init took: (0.001807s)
+[2020.09.07-02.36.00:027][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1 to /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1 (0.037915s)
+[2020.09.07-02.36.00:050][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.09.07-02.36.00:053][430]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.36.00:053][430]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.36.00:053][430]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.36.00:053][430]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.36.00:053][430]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.36.00:053][430]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.36.00:053][430]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.36.00:053][430]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.36.00:053][430]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.36.00:053][430]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.36.00:059][430]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.36.00:059][430]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.36.00:093][430]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek High Definition Audio)
+[2020.09.07-02.36.00:094][430]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.07-02.36.00:094][430]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.07-02.36.00:094][430]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.07-02.36.00:094][430]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.07-02.36.00:110][430]LogInit: FAudioDevice initialized.
+[2020.09.07-02.36.00:123][430]LogLoad: Game class is 'TwinStickMode_C'
+[2020.09.07-02.36.00:128][430]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1 up for play (max tick rate 60) at 2020.09.07-10.36.00
+[2020.09.07-02.36.00:129][430]LogWorld: Bringing up level for play took: 0.005333
+[2020.09.07-02.36.00:129][430]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.09.07-02.36.00:133][430]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_Create_ReturnValue
+	CoopLandscape_Map1_C /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1:PersistentLevel.CoopLandscape_Map1_C_8
+	Function /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1_C:ExecuteUbergraph_CoopLandscape_Map1:013B
+[2020.09.07-02.36.00:133][430]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_Create_ReturnValue"。 蓝图： CoopLandscape_Map1 函数： Execute Ubergraph Coop Landscape Map 1 图表： EventGraph 节点： 添加到视口
+[2020.09.07-02.36.00:134][430]PIE: 登陆的服务器
+[2020.09.07-02.36.00:135][430]PIE: PIE总开始时间：0.152秒。
+[2020.09.07-02.36.00:136][430]LogBlueprintUserMessages: [SunLight_2] 白天降临
+[2020.09.07-02.36.00:491][448]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2166.639 Y=12828.712 Z=89.187] for [EnemyCharacter_C]
+[2020.09.07-02.36.00:998][478]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2035.327 Y=12848.596 Z=82.761] for [EnemyCharacter_C]
+[2020.09.07-02.36.01:484][507]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2139.270 Y=12808.021 Z=50.809] for [EnemyCharacter_C]
+[2020.09.07-02.36.01:990][537]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2503.992 Y=12602.507 Z=49.354] for [EnemyCharacter_C]
+[2020.09.07-02.36.02:491][567]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2273.729 Y=12768.107 Z=65.278] for [EnemyCharacter_C]
+[2020.09.07-02.36.02:983][592]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2224.913 Y=12660.854 Z=40.020] for [EnemyCharacter_C]
+[2020.09.07-02.36.03:500][616]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2275.487 Y=12602.539 Z=49.701] for [EnemyCharacter_C]
+[2020.09.07-02.36.04:504][637]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2105.325 Y=12629.739 Z=48.815] for [EnemyCharacter_C]
+[2020.09.07-02.36.05:314][667]LogBlueprintUserMessages: [Wall3_13] 击中墙体
+[2020.09.07-02.36.06:080][698]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2042.147 Y=12505.985 Z=22.981] for [EnemyCharacter_C]
+[2020.09.07-02.36.06:272][706]LogBlueprintUserMessages: [Wall3_13] 击中墙体
+[2020.09.07-02.36.06:579][713]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2143.822 Y=12615.365 Z=34.845] for [EnemyCharacter_C]
+[2020.09.07-02.36.07:072][733]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2266.434 Y=12743.760 Z=74.226] for [EnemyCharacter_C]
+[2020.09.07-02.36.08:072][776]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2586.506 Y=12574.807 Z=33.946] for [EnemyCharacter_C]
+[2020.09.07-02.36.08:271][781]LogBlueprintUserMessages: [Wall3_13] 击中墙体
+[2020.09.07-02.36.08:576][795]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2142.328 Y=12837.333 Z=57.750] for [EnemyCharacter_C]
+[2020.09.07-02.36.09:605][830]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2400.260 Y=12598.543 Z=56.449] for [EnemyCharacter_C]
+[2020.09.07-02.36.10:113][848]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2151.188 Y=12583.621 Z=40.296] for [EnemyCharacter_C]
+[2020.09.07-02.36.10:599][865]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2181.177 Y=12681.528 Z=26.099] for [EnemyCharacter_C]
+[2020.09.07-02.36.11:108][882]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2474.301 Y=12744.840 Z=86.352] for [EnemyCharacter_C]
+[2020.09.07-02.36.12:123][917]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2424.044 Y=12734.704 Z=76.235] for [EnemyCharacter_C]
+[2020.09.07-02.36.12:627][935]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2022.881 Y=12885.948 Z=58.783] for [EnemyCharacter_C]
+[2020.09.07-02.36.13:130][954]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2017.274 Y=12604.344 Z=89.854] for [EnemyCharacter_C]
+[2020.09.07-02.36.14:645][ 10]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2532.188 Y=12659.936 Z=13.174] for [EnemyCharacter_C]
+[2020.09.07-02.36.15:646][ 48]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2042.815 Y=12506.130 Z=11.480] for [EnemyCharacter_C]
+[2020.09.07-02.36.16:657][ 85]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2191.355 Y=12876.924 Z=69.489] for [EnemyCharacter_C]
+[2020.09.07-02.36.17:167][104]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2252.582 Y=12624.550 Z=48.258] for [EnemyCharacter_C]
+[2020.09.07-02.36.18:690][164]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2528.971 Y=12570.247 Z=24.312] for [EnemyCharacter_C]
+[2020.09.07-02.36.19:189][183]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2092.739 Y=12450.827 Z=64.579] for [EnemyCharacter_C]
+[2020.09.07-02.36.19:702][203]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2394.828 Y=12635.749 Z=80.654] for [EnemyCharacter_C]
+[2020.09.07-02.36.20:204][223]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2324.004 Y=12717.253 Z=27.754] for [EnemyCharacter_C]
+[2020.09.07-02.36.20:705][242]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2142.645 Y=12877.987 Z=34.056] for [EnemyCharacter_C]
+[2020.09.07-02.36.21:160][260]LogBlueprintUserMessages: [Wall3_13] 击中墙体
+[2020.09.07-02.36.21:190][261]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2540.010 Y=12820.655 Z=59.733] for [EnemyCharacter_C]
+[2020.09.07-02.36.21:389][269]LogBlueprintUserMessages: [Wall3_13] 击中墙体
+[2020.09.07-02.36.21:712][281]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2040.038 Y=12452.891 Z=33.917] for [EnemyCharacter_C]
+[2020.09.07-02.36.22:116][296]LogBlueprintUserMessages: [Wall4_2] 击中墙体
+[2020.09.07-02.36.22:195][299]LogBlueprintUserMessages: [Wall4_2] 击中墙体
+[2020.09.07-02.36.22:195][299]LogBlueprintUserMessages: [Wall4_2] 击中墙体
+[2020.09.07-02.36.22:195][299]LogBlueprintUserMessages: [Wall4_2] 击中墙体
+[2020.09.07-02.36.22:199][299]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2189.966 Y=12451.037 Z=74.201] for [EnemyCharacter_C]
+[2020.09.07-02.36.22:222][300]LogBlueprintUserMessages: [Wall4_2] 击中墙体
+[2020.09.07-02.36.22:222][300]LogBlueprintUserMessages: [Wall4_2] 击中墙体
+[2020.09.07-02.36.22:408][302]LogBlueprintUserMessages: [Wall4_2] 击中墙体
+[2020.09.07-02.36.22:408][302]LogBlueprintUserMessages: [Wall4_2] 击中墙体
+[2020.09.07-02.36.22:700][313]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2544.229 Y=12739.280 Z=21.546] for [EnemyCharacter_C]
+[2020.09.07-02.36.23:136][329]LogBlueprintUserMessages: [Wall4_2] 击中墙体
+[2020.09.07-02.36.23:191][331]LogBlueprintUserMessages: [Wall4_2] 击中墙体
+[2020.09.07-02.36.23:191][331]LogBlueprintUserMessages: [Wall4_2] 击中墙体
+[2020.09.07-02.36.23:196][331]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2309.484 Y=12615.881 Z=26.885] for [EnemyCharacter_C]
+[2020.09.07-02.36.23:219][332]LogBlueprintUserMessages: [Wall4_2] 击中墙体
+[2020.09.07-02.36.23:391][333]LogBlueprintUserMessages: [HeroCharacter_C_0] 1
+[2020.09.07-02.36.23:692][343]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2535.598 Y=12481.299 Z=54.093] for [EnemyCharacter_C]
+[2020.09.07-02.36.24:044][356]LogBlueprintUserMessages: [Wall4_2] 击中墙体
+[2020.09.07-02.36.24:207][362]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2524.717 Y=12583.105 Z=80.219] for [EnemyCharacter_C]
+[2020.09.07-02.36.24:258][364]LogBlueprintUserMessages: [Wall4_2] 击中墙体
+[2020.09.07-02.36.24:707][381]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2358.932 Y=12700.221 Z=57.206] for [EnemyCharacter_C]
+[2020.09.07-02.36.25:209][399]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2248.855 Y=12464.153 Z=32.203] for [EnemyCharacter_C]
+[2020.09.07-02.36.25:703][418]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2084.916 Y=12888.381 Z=55.387] for [EnemyCharacter_C]
+[2020.09.07-02.36.26:718][459]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2018.785 Y=12794.357 Z=21.685] for [EnemyCharacter_C]
+[2020.09.07-02.36.27:227][480]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2062.978 Y=12728.710 Z=21.016] for [EnemyCharacter_C]
+[2020.09.07-02.36.27:707][500]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2083.000 Y=12713.015 Z=82.864] for [EnemyCharacter_C]
+[2020.09.07-02.36.28:216][520]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2456.582 Y=12480.896 Z=62.253] for [EnemyCharacter_C]
+[2020.09.07-02.36.28:419][528]LogBlueprintUserMessages: [Wall4_2] 击中墙体
+[2020.09.07-02.36.28:641][537]LogBlueprintUserMessages: [Wall4_2] 击中墙体
+[2020.09.07-02.36.29:748][582]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2272.111 Y=12514.863 Z=59.293] for [EnemyCharacter_C]
+[2020.09.07-02.36.30:237][603]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2376.230 Y=12809.617 Z=65.578] for [EnemyCharacter_C]
+[2020.09.07-02.36.30:426][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.36.30:426][610]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CoopLandscape_Map1
+[2020.09.07-02.36.30:427][610]LogWorld: UWorld::CleanupWorld for CoopLandscape_Map1, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.36.30:430][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.36.30:441][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.36.30:445][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.36.30:466][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.36.30:493][610]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027CE42ED580), frame # 84610
+[2020.09.07-02.36.30:493][610]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027D1FFBB400), frame # 84610
+[2020.09.07-02.36.30:496][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.09.07-02.36.30:626][611]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.09.07-02.36.33:088][749]LogSlate: Window '消息日志' being destroyed
+[2020.09.07-02.36.33:099][749]LogSlate: Window '消息日志' being destroyed
+[2020.09.07-02.36.34:607][840]Cmd: TRANSACTION UNDO
+[2020.09.07-02.36.34:607][840]LogEditorTransaction: Undo 点击Actor
+[2020.09.07-02.36.36:815][956]Cmd: TRANSACTION UNDO
+[2020.09.07-02.36.36:815][956]LogEditorTransaction: Undo 删除Actor
+[2020.09.07-02.36.40:118][149]Cmd: TRANSACTION UNDO
+[2020.09.07-02.36.40:118][149]LogEditorTransaction: Undo 点击Actor
+[2020.09.07-02.36.43:053][299]LogTemp: Repeating last play command: 选中的视口
+[2020.09.07-02.36.43:066][299]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.07-02.36.43:066][299]PIE: New page: PIE会话：CoopLandscape_Map1（2020年9月7日 下午6:36:43）
+[2020.09.07-02.36.43:067][299]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CoopLandscape_Map1
+[2020.09.07-02.36.43:112][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044990s)
+[2020.09.07-02.36.43:114][299]LogAIModule: Creating AISystem for world CoopLandscape_Map1
+[2020.09.07-02.36.43:114][299]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027D30F04200), frame # 85299
+[2020.09.07-02.36.43:114][299]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027CEE7FC180), frame # 85299
+[2020.09.07-02.36.43:114][299]LogPlayLevel: PIE: World Init took: (0.001822s)
+[2020.09.07-02.36.43:114][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1 to /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1 (0.047110s)
+[2020.09.07-02.36.43:141][299]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.09.07-02.36.43:145][299]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-02.36.43:145][299]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-02.36.43:145][299]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-02.36.43:145][299]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-02.36.43:146][299]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-02.36.43:146][299]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-02.36.43:146][299]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-02.36.43:146][299]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-02.36.43:146][299]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-02.36.43:146][299]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-02.36.43:154][299]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-02.36.43:154][299]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-02.36.43:196][299]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek High Definition Audio)
+[2020.09.07-02.36.43:196][299]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.07-02.36.43:196][299]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.07-02.36.43:196][299]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.07-02.36.43:197][299]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.07-02.36.43:217][299]LogInit: FAudioDevice initialized.
+[2020.09.07-02.36.43:228][299]LogLoad: Game class is 'TwinStickMode_C'
+[2020.09.07-02.36.43:235][299]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1 up for play (max tick rate 60) at 2020.09.07-10.36.43
+[2020.09.07-02.36.43:236][299]LogWorld: Bringing up level for play took: 0.006811
+[2020.09.07-02.36.43:236][299]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.09.07-02.36.43:242][299]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_Create_ReturnValue
+	CoopLandscape_Map1_C /Game/Maps/UEDPIE_0_CoopLandscape_Map1.CoopLandscape_Map1:PersistentLevel.CoopLandscape_Map1_C_8
+	Function /Game/Maps/CoopLandscape_Map1.CoopLandscape_Map1_C:ExecuteUbergraph_CoopLandscape_Map1:013B
+[2020.09.07-02.36.43:242][299]PIE: Error: 蓝图运行时错误："“无访问”正在尝试读取属性 CallFunc_Create_ReturnValue"。 蓝图： CoopLandscape_Map1 函数： Execute Ubergraph Coop Landscape Map 1 图表： EventGraph 节点： 添加到视口
+[2020.09.07-02.36.43:243][299]PIE: 登陆的服务器
+[2020.09.07-02.36.43:244][299]PIE: PIE总开始时间：0.184秒。
+[2020.09.07-02.36.43:244][299]LogBlueprintUserMessages: [SunLight_2] 白天降临
+[2020.09.07-02.36.44:011][339]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2231.382 Y=12649.865 Z=47.003] for [EnemyCharacter_C]
+[2020.09.07-02.36.44:343][359]LogBlueprintUserMessages: [Wall7] 击中墙体
+[2020.09.07-02.36.44:510][369]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2236.392 Y=12658.743 Z=74.228] for [EnemyCharacter_C]
+[2020.09.07-02.36.45:514][425]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2445.085 Y=12704.023 Z=57.433] for [EnemyCharacter_C]
+[2020.09.07-02.36.46:520][470]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2019.524 Y=12620.103 Z=85.080] for [EnemyCharacter_C]
+[2020.09.07-02.36.47:048][490]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2081.735 Y=12837.220 Z=63.141] for [EnemyCharacter_C]
+[2020.09.07-02.36.47:585][505]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2432.482 Y=12492.305 Z=45.079] for [EnemyCharacter_C]
+[2020.09.07-02.36.48:167][512]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2305.142 Y=12579.238 Z=22.080] for [EnemyCharacter_C]
+[2020.09.07-02.36.48:532][521]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2061.695 Y=12918.063 Z=88.257] for [EnemyCharacter_C]
+[2020.09.07-02.36.49:053][531]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2509.054 Y=12616.783 Z=11.218] for [EnemyCharacter_C]
+[2020.09.07-02.36.50:577][581]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2055.138 Y=12669.072 Z=28.043] for [EnemyCharacter_C]
+[2020.09.07-02.36.51:592][615]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2503.640 Y=12619.619 Z=75.212] for [EnemyCharacter_C]
+[2020.09.07-02.36.52:100][632]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2197.771 Y=12832.756 Z=70.297] for [EnemyCharacter_C]
+[2020.09.07-02.36.53:133][664]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2205.383 Y=12725.745 Z=28.494] for [EnemyCharacter_C]
+[2020.09.07-02.36.53:631][679]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2511.814 Y=12795.711 Z=71.042] for [EnemyCharacter_C]
+[2020.09.07-02.36.54:240][697]LogBlueprintUserMessages: [Wall7] 击中墙体
+[2020.09.07-02.36.54:341][700]LogBlueprintUserMessages: [Wall7] 击中墙体
+[2020.09.07-02.36.54:604][708]LogBlueprintUserMessages: [Wall7] 击中墙体
+[2020.09.07-02.36.54:642][709]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2482.985 Y=12724.246 Z=48.273] for [EnemyCharacter_C]
+[2020.09.07-02.36.54:807][714]LogBlueprintUserMessages: [Wall7] 击中墙体
+[2020.09.07-02.36.54:873][716]LogBlueprintUserMessages: [Wall7] 击中墙体
+[2020.09.07-02.36.54:873][716]LogBlueprintUserMessages: [Wall7] 击中墙体
+[2020.09.07-02.36.54:906][717]LogBlueprintUserMessages: [Wall7] 击中墙体
+[2020.09.07-02.36.55:075][722]LogBlueprintUserMessages: [Wall7] 击中墙体
+[2020.09.07-02.36.55:112][723]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2134.664 Y=12587.763 Z=29.857] for [EnemyCharacter_C]
+[2020.09.07-02.36.55:209][726]LogBlueprintUserMessages: [Wall18] 击中墙体
+[2020.09.07-02.36.55:312][729]LogBlueprintUserMessages: [Wall7] 击中墙体
+[2020.09.07-02.36.55:345][730]LogBlueprintUserMessages: [Wall7] 击中墙体
+[2020.09.07-02.36.55:417][732]LogBlueprintUserMessages: [Wall7] 击中墙体
+[2020.09.07-02.36.55:450][733]LogBlueprintUserMessages: [Wall7] 击中墙体
+[2020.09.07-02.36.56:485][765]LogBlueprintUserMessages: [Wall7] 击中墙体
+[2020.09.07-02.36.56:674][771]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2060.183 Y=12798.659 Z=34.198] for [EnemyCharacter_C]
+[2020.09.07-02.36.57:169][787]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2379.992 Y=12669.701 Z=37.301] for [EnemyCharacter_C]
+[2020.09.07-02.36.57:673][803]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2336.906 Y=12507.919 Z=40.780] for [EnemyCharacter_C]
+[2020.09.07-02.36.58:164][819]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2488.487 Y=12726.341 Z=34.915] for [EnemyCharacter_C]
+[2020.09.07-02.36.58:555][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.36.58:555][830]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CoopLandscape_Map1
+[2020.09.07-02.36.58:555][830]LogWorld: UWorld::CleanupWorld for CoopLandscape_Map1, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-02.36.58:558][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.36.58:572][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.07-02.36.58:576][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-02.36.58:603][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-02.36.58:630][830]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027CEE7FC180), frame # 85830
+[2020.09.07-02.36.58:630][830]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027D30F04200), frame # 85830
+[2020.09.07-02.36.58:634][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.09.07-02.36.58:770][831]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.09.07-02.37.04:708][173]LogSlate: Window '消息日志' being destroyed
+[2020.09.07-02.37.04:720][173]LogSlate: Window '消息日志' being destroyed
+[2020.09.07-02.37.10:208][495]Cmd: TRANSACTION UNDO
+[2020.09.07-02.37.10:209][495]LogEditorTransaction: Undo 点击Actor（快捷菜单）
+[2020.09.07-02.37.13:971][521]LogRHI: Error: Present Fail Count 1
+[2020.09.07-02.37.13:971][521]LogRHI: Error: SyncInterval 0
+[2020.09.07-02.37.13:971][521]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.09.07-02.37.13:971][521]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.09.07-02.37.13:971][521]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.09.07-02.37.13:971][521]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.09.07-02.37.13:971][521]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.09.07-02.37.13:971][521]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.09.07-02.37.13:971][521]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.09.07-02.37.13:971][521]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.09.07-02.37.13:971][521]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.09.07-02.37.13:972][521]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.09.07-02.37.13:972][521]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.09.07-02.37.13:972][521]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000060F7A
+[2020.09.07-02.37.13:972][521]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.09.07-02.37.13:972][521]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.09.07-02.37.13:972][521]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.09.07-02.37.13:972][521]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.09.07-02.37.14:006][521]Cmd: TRANSACTION UNDO
+[2020.09.07-02.37.14:006][521]LogEditorTransaction: Undo 点击Actor
+[2020.09.07-02.37.14:062][521]Cmd: TRANSACTION UNDO
+[2020.09.07-02.37.14:062][521]LogEditorTransaction: Undo 点击Actor
+[2020.09.07-02.37.14:069][521]Cmd: TRANSACTION UNDO
+[2020.09.07-02.37.14:069][521]LogEditorTransaction: Undo 点击Actor
+[2020.09.07-02.37.14:076][521]Cmd: TRANSACTION UNDO
+[2020.09.07-02.37.14:076][521]LogEditorTransaction: Undo 点击Actor
+[2020.09.07-02.37.14:130][521]Cmd: TRANSACTION UNDO
+[2020.09.07-02.37.14:130][521]LogEditorTransaction: Undo 点击Actor
+[2020.09.07-02.37.14:142][521]Cmd: TRANSACTION UNDO
+[2020.09.07-02.37.14:142][521]LogEditorTransaction: Undo 点击Actor
+[2020.09.07-02.37.14:324][524]LogRHI: Error: Present Fail Count 2
+[2020.09.07-02.37.14:324][524]LogRHI: Error: SyncInterval 0
+[2020.09.07-02.37.14:324][524]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.09.07-02.37.14:324][524]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.09.07-02.37.14:324][524]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.09.07-02.37.14:324][524]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.09.07-02.37.14:324][524]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.09.07-02.37.14:324][524]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.09.07-02.37.14:324][524]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.09.07-02.37.14:324][524]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.09.07-02.37.14:324][524]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.09.07-02.37.14:324][524]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.09.07-02.37.14:324][524]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.09.07-02.37.14:324][524]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000060F7A
+[2020.09.07-02.37.14:324][524]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.09.07-02.37.14:324][524]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.09.07-02.37.14:324][524]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.09.07-02.37.14:324][524]Cmd: TRANSACTION UNDO
+[2020.09.07-02.37.14:324][524]LogEditorTransaction: Undo 创建Actor
+[2020.09.07-02.37.14:548][527]LogRHI: Error: Present Fail Count 3
+[2020.09.07-02.37.14:548][527]LogRHI: Error: SyncInterval 0
+[2020.09.07-02.37.14:548][527]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.09.07-02.37.14:548][527]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.09.07-02.37.14:548][527]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.09.07-02.37.14:548][527]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.09.07-02.37.14:548][527]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.09.07-02.37.14:548][527]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.09.07-02.37.14:548][527]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.09.07-02.37.14:548][527]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.09.07-02.37.14:548][527]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.09.07-02.37.14:548][527]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.09.07-02.37.14:548][527]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.09.07-02.37.14:548][527]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000060F7A
+[2020.09.07-02.37.14:548][527]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.09.07-02.37.14:548][527]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.09.07-02.37.14:548][527]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.09.07-02.37.14:617][529]LogRHI: Error: Present Fail Count 4
+[2020.09.07-02.37.14:617][529]LogRHI: Error: SyncInterval 0
+[2020.09.07-02.37.14:617][529]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.09.07-02.37.14:617][529]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.09.07-02.37.14:617][529]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.09.07-02.37.14:617][529]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.09.07-02.37.14:617][529]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.09.07-02.37.14:617][529]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.09.07-02.37.14:617][529]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.09.07-02.37.14:617][529]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.09.07-02.37.14:617][529]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.09.07-02.37.14:617][529]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.09.07-02.37.14:617][529]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.09.07-02.37.14:617][529]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000060F7A
+[2020.09.07-02.37.14:617][529]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.09.07-02.37.14:617][529]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.09.07-02.37.14:617][529]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.09.07-02.37.14:686][531]LogRHI: Error: Present Fail Count 5
+[2020.09.07-02.37.14:686][531]LogRHI: Error: SyncInterval 0
+[2020.09.07-02.37.14:686][531]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.09.07-02.37.14:686][531]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.09.07-02.37.14:686][531]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.09.07-02.37.14:686][531]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.09.07-02.37.14:686][531]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.09.07-02.37.14:686][531]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.09.07-02.37.14:686][531]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.09.07-02.37.14:687][531]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.09.07-02.37.14:687][531]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.09.07-02.37.14:687][531]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.09.07-02.37.14:687][531]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.09.07-02.37.14:687][531]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000060F7A
+[2020.09.07-02.37.14:687][531]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.09.07-02.37.14:687][531]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.09.07-02.37.14:687][531]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.09.07-02.37.14:753][533]LogRHI: Error: Present Fail Count 6
+[2020.09.07-02.37.14:753][533]LogRHI: Error: SyncInterval 0
+[2020.09.07-02.37.14:753][533]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.09.07-02.37.14:753][533]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.09.07-02.37.14:753][533]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.09.07-02.37.14:753][533]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.09.07-02.37.14:753][533]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.09.07-02.37.14:753][533]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.09.07-02.37.14:753][533]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.09.07-02.37.14:754][533]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.09.07-02.37.14:754][533]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.09.07-02.37.14:754][533]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.09.07-02.37.14:754][533]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.09.07-02.37.14:754][533]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000060F7A
+[2020.09.07-02.37.14:754][533]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.09.07-02.37.14:754][533]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.09.07-02.37.14:754][533]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.09.07-02.37.14:819][535]LogRHI: Error: Present Fail Count 7
+[2020.09.07-02.37.14:819][535]LogRHI: Error: SyncInterval 0
+[2020.09.07-02.37.14:820][535]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.09.07-02.37.14:820][535]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.09.07-02.37.14:820][535]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.09.07-02.37.14:820][535]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.09.07-02.37.14:820][535]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.09.07-02.37.14:820][535]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.09.07-02.37.14:820][535]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.09.07-02.37.14:820][535]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.09.07-02.37.14:820][535]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.09.07-02.37.14:820][535]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.09.07-02.37.14:820][535]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.09.07-02.37.14:820][535]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000060F7A
+[2020.09.07-02.37.14:821][535]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.09.07-02.37.14:821][535]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.09.07-02.37.14:821][535]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.09.07-02.37.14:884][538]LogRHI: Error: Present Fail Count 8
+[2020.09.07-02.37.14:884][538]LogRHI: Error: SyncInterval 0
+[2020.09.07-02.37.14:884][538]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.09.07-02.37.14:884][538]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.09.07-02.37.14:884][538]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.09.07-02.37.14:884][538]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.09.07-02.37.14:884][538]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.09.07-02.37.14:884][538]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.09.07-02.37.14:884][538]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.09.07-02.37.14:884][538]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.09.07-02.37.14:884][538]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.09.07-02.37.14:884][538]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.09.07-02.37.14:884][538]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.09.07-02.37.14:884][538]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000060F7A
+[2020.09.07-02.37.14:884][538]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.09.07-02.37.14:884][538]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.09.07-02.37.14:884][538]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.09.07-02.37.14:930][541]LogRHI: Error: Present Fail Count 9
+[2020.09.07-02.37.14:930][541]LogRHI: Error: SyncInterval 0
+[2020.09.07-02.37.14:930][541]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.09.07-02.37.14:931][541]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.09.07-02.37.14:931][541]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.09.07-02.37.14:931][541]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.09.07-02.37.14:931][541]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.09.07-02.37.14:931][541]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.09.07-02.37.14:931][541]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.09.07-02.37.14:931][541]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.09.07-02.37.14:931][541]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.09.07-02.37.14:931][541]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.09.07-02.37.14:931][541]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.09.07-02.37.14:931][541]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000060F7A
+[2020.09.07-02.37.14:931][541]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.09.07-02.37.14:931][541]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.09.07-02.37.14:931][541]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.09.07-02.37.14:980][544]LogRHI: Error: Present Fail Count 10
+[2020.09.07-02.37.14:980][544]LogRHI: Error: SyncInterval 0
+[2020.09.07-02.37.14:980][544]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.09.07-02.37.14:980][544]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.09.07-02.37.14:980][544]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.09.07-02.37.14:980][544]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.09.07-02.37.14:980][544]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.09.07-02.37.14:980][544]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.09.07-02.37.14:980][544]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.09.07-02.37.14:980][544]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.09.07-02.37.14:980][544]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.09.07-02.37.14:980][544]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.09.07-02.37.14:980][544]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.09.07-02.37.14:980][544]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000060F7A
+[2020.09.07-02.37.14:980][544]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.09.07-02.37.14:980][544]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.09.07-02.37.14:980][544]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.09.07-02.37.15:027][548]LogRHI: Error: Present Fail Count 11
+[2020.09.07-02.37.15:027][548]LogRHI: Error: SyncInterval 0
+[2020.09.07-02.37.15:027][548]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.09.07-02.37.15:027][548]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.09.07-02.37.15:027][548]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.09.07-02.37.15:027][548]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.09.07-02.37.15:027][548]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.09.07-02.37.15:027][548]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.09.07-02.37.15:027][548]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.09.07-02.37.15:027][548]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.09.07-02.37.15:027][548]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.09.07-02.37.15:027][548]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.09.07-02.37.15:027][548]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.09.07-02.37.15:027][548]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000060F7A
+[2020.09.07-02.37.15:027][548]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.09.07-02.37.15:027][548]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.09.07-02.37.15:027][548]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.09.07-02.37.15:071][548]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:406 
+ with error DXGI_ERROR_DEVICE_REMOVED 00000000
+[2020.09.07-02.37.15:071][548]LogD3D11RHI: [Aftermath] GDynamicRHI=0000027CC72DC0C0, GDX11NVAfterMathEnabled=1, Result=0x00000001, bDeviceActive=1
+[2020.09.07-02.37.15:071][548]LogWindows: Windows GetLastError: 操作成功完成。 (0)
+[2020.09.07-02.37.36:475][548]LogWindows: FPlatformMisc::RequestExit(0)
+[2020.09.07-02.37.36:475][548]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.09.07-02.37.36:475][548]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.09.07-02.37.36:475][548]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2020.09.07-02.37.36:592][548]Log file closed, 09/07/20 10:37:36

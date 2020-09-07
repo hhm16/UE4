@@ -1,0 +1,1338 @@
+﻿Log file open, 09/07/20 19:38:44
+LogInit: Display: Running engine for game: demo0
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.250607
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: F:/eu4/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.07-11.38.44:598][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.09.07-11.38.44:598][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Engine.ini]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Engine.ini]
+[2020.09.07-11.38.44:600][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Engine.ini]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Engine.ini]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.09.07-11.38.44:600][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Engine.ini]
+[2020.09.07-11.38.44:600][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Engine.ini]
+[2020.09.07-11.38.44:602][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.07-11.38.44:603][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.07-11.38.44:604][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.07-11.38.44:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.07-11.38.44:605][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.07-11.38.44:605][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-11.38.44:605][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.07-11.38.44:605][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.07-11.38.44:605][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-11.38.44:605][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.07-11.38.44:605][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.07-11.38.44:605][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.07-11.38.44:605][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.09.07-11.38.44:605][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.09.07-11.38.44:605][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.09.07-11.38.44:605][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.09.07-11.38.44:605][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.07-11.38.44:605][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.07-11.38.44:605][  0]LogHAL: Display: Platform has ~ 8 GB [8459030528 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.09.07-11.38.44:605][  0]LogInit: Going up to parent DeviceProfile []
+[2020.09.07-11.38.44:606][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.07-11.38.44:606][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.07-11.38.44:607][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Scalability.ini]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.09.07-11.38.44:608][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UE4/ourgame/UE4/Saved/Config/Windows/Engine.ini]
+[2020.09.07-11.38.44:608][  0]LogInit: Computer: LAPTOP-NHJIF990
+[2020.09.07-11.38.44:608][  0]LogInit: User: 大佬
+[2020.09.07-11.38.44:608][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.09.07-11.38.44:609][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.07-11.38.44:609][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.09.07-11.38.44:609][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.07-11.38.44:609][  0]LogMemory: Process Physical Memory: 112.90 MB used, 112.90 MB peak
+[2020.09.07-11.38.44:609][  0]LogMemory: Process Virtual Memory: 95.42 MB used, 95.42 MB peak
+[2020.09.07-11.38.44:609][  0]LogMemory: Physical Memory: 5169.35 MB used,  2897.81 MB free, 8067.16 MB total
+[2020.09.07-11.38.44:609][  0]LogMemory: Virtual Memory: 5126.86 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2020.09.07-11.38.44:622][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.09.07-11.38.44:670][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.09.07-11.38.44:671][  0]LogInit: Using OS detected language (zh-CN).
+[2020.09.07-11.38.44:671][  0]LogInit: Using OS detected locale (zh-CN).
+[2020.09.07-11.38.44:674][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2020.09.07-11.38.44:798][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2020.09.07-11.38.44:798][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2020.09.07-11.38.44:799][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2020.09.07-11.38.44:799][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2020.09.07-11.38.44:799][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2020.09.07-11.38.44:799][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2020.09.07-11.38.44:799][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2020.09.07-11.38.44:799][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2020.09.07-11.38.44:799][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2020.09.07-11.38.44:799][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2020.09.07-11.38.44:799][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.09.07-11.38.44:868][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.07-11.38.44:896][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.09.07-11.38.44:896][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.09.07-11.38.45:149][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.07-11.38.45:149][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.09.07-11.38.45:149][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.09.07-11.38.45:149][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.07-11.38.45:234][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.09.07-11.38.45:234][  0]LogD3D11RHI:       4021/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.09.07-11.38.45:251][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.09.07-11.38.45:251][  0]LogD3D11RHI:       128/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.09.07-11.38.45:256][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.07-11.38.45:256][  0]LogD3D11RHI:       0/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.07-11.38.45:256][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.07-11.38.45:305][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.07-11.38.45:305][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.09.07-11.38.45:305][  0]LogWindows: EnumDisplayDevices:
+[2020.09.07-11.38.45:306][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.09.07-11.38.45:307][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.09.07-11.38.45:308][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.09.07-11.38.45:308][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.09.07-11.38.45:308][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.09.07-11.38.45:308][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.09.07-11.38.45:308][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.09.07-11.38.45:308][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2020.09.07-11.38.45:357][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.09.07-11.38.45:358][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.09.07-11.38.45:358][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.07-11.38.45:358][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.09.07-11.38.45:381][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.09.07-11.38.45:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.09.07-11.38.45:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.09.07-11.38.45:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.09.07-11.38.45:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.09.07-11.38.45:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.09.07-11.38.45:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.09.07-11.38.45:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.09.07-11.38.45:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.09.07-11.38.45:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.09.07-11.38.45:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.09.07-11.38.45:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.09.07-11.38.45:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.09.07-11.38.45:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.09.07-11.38.45:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.09.07-11.38.45:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.09.07-11.38.45:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.09.07-11.38.45:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.09.07-11.38.45:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.09.07-11.38.45:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.09.07-11.38.45:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.09.07-11.38.45:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.09.07-11.38.45:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.09.07-11.38.45:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.09.07-11.38.45:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.09.07-11.38.45:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.09.07-11.38.45:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.09.07-11.38.45:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.09.07-11.38.46:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.09.07-11.38.46:009][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.07-11.38.46:022][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.09.07-11.38.46:122][  0]LogShaderCompilers: Guid format shader working directory is 24 characters bigger than the processId version (E:/UE4/ourgame/UE4/Intermediate/Shaders/WorkingDirectory/16360/).
+[2020.09.07-11.38.46:122][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/大佬/AppData/Local/Temp/UnrealShaderWorkingDir/16302C9E4BB2FCE64B49D2A9E062503B/'.
+[2020.09.07-11.38.46:123][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.09.07-11.38.46:123][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.09.07-11.38.46:123][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.07-11.38.47:104][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.07-11.38.47:207][  0]LogDerivedDataCache: Loaded boot cache 0.10s 75MB C:/Users/大佬/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.09.07-11.38.47:207][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/大佬/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.09.07-11.38.47:208][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/UE4/ourgame/UE4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.07-11.38.47:208][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.07-11.38.47:208][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/UE4/ourgame/UE4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.07-11.38.47:208][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.07-11.38.47:222][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.07-11.38.47:222][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.07-11.38.47:223][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.09.07-11.38.47:224][  0]LogDerivedDataCache: Using Local data cache path C:/Users/大佬/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.07-11.38.47:224][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.09.07-11.38.47:224][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.09.07-11.38.47:293][  0]LogSlate: Using FreeType 2.10.0
+[2020.09.07-11.38.47:294][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.07-11.38.47:334][  0]LogAssetRegistry: FAssetRegistry took 0.0036 seconds to start up
+[2020.09.07-11.38.47:634][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.07-11.38.47:833][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.07-11.38.47:833][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.09.07-11.38.47:833][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.09.07-11.38.47:833][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.09.07-11.38.47:833][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.09.07-11.38.47:860][  0]LogNetVersion: demo0 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 482723709)
+[2020.09.07-11.38.48:538][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000191BE686340), frame # 0
+[2020.09.07-11.38.48:538][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000191BE648680), frame # 0
+[2020.09.07-11.38.48:540][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000191BE671E00), frame # 0
+[2020.09.07-11.38.48:807][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 2 prioritized culture(s) in 0.261140 seconds
+[2020.09.07-11.38.48:812][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.09.07-11.38.48:813][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.09.07-11.38.48:813][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.07-11.38.49:445][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.07-11.38.49:456][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.07-11.38.49:719][  0]SourceControl: 源码管理已禁用
+[2020.09.07-11.38.49:817][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2020.09.07-11.38.49:817][  0]LogWindows: Warning: URL: E:/Git/bin/git.exe version
+[2020.09.07-11.38.49:826][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2020.09.07-11.38.49:826][  0]LogWindows: Warning: URL: E:/Git/bin/git.exe version
+[2020.09.07-11.38.49:831][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2020.09.07-11.38.49:831][  0]LogWindows: Warning: URL: E:/Git/bin/git.exe version
+[2020.09.07-11.38.49:849][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2020.09.07-11.38.49:849][  0]LogWindows: Warning: URL: E:/Git/bin/git.exe version
+[2020.09.07-11.38.50:311][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.07-11.38.50:356][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.07-11.38.50:356][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.07-11.38.50:441][  0]LogOcInput: OculusInput pre-init called
+[2020.09.07-11.38.50:461][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.09.07-11.38.50:461][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.09.07-11.38.50:588][  0]LogEngine: Initializing Engine...
+[2020.09.07-11.38.50:651][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.07-11.38.50:651][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.09.07-11.38.50:661][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.09.07-11.38.50:864][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.09.07-11.38.50:879][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.07-11.38.50:879][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000191C5A07C00), frame # 0
+[2020.09.07-11.38.50:879][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000191C5A43100), frame # 0
+[2020.09.07-11.38.50:966][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.07-11.38.50:966][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.07-11.38.50:966][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.07-11.38.50:966][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.07-11.38.50:966][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.07-11.38.50:966][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.07-11.38.50:966][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.07-11.38.50:966][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.07-11.38.50:966][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.07-11.38.50:966][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.07-11.38.50:989][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.07-11.38.50:989][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.09.07-11.38.51:056][  0]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek High Definition Audio)
+[2020.09.07-11.38.51:064][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.09.07-11.38.51:066][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.09.07-11.38.51:066][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.09.07-11.38.51:068][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.09.07-11.38.51:071][  0]LogInit: FAudioDevice initialized.
+[2020.09.07-11.38.51:071][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.09.07-11.38.51:387][  0]LogDerivedDataCache: Saved boot cache 0.32s 75MB C:/Users/大佬/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.09.07-11.38.51:388][  0]LogInit: Texture streaming: Enabled
+[2020.09.07-11.38.51:420][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.07-11.38.51:420][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.09.07-11.38.51:428][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.09.07-11.38.51:825][  0]LogInit: Transaction tracking system initialized
+[2020.09.07-11.38.51:867][  0]BlueprintLog: New page: 编辑器加载
+[2020.09.07-11.38.51:994][  0]LocalizationService: 本地化服务已禁用
+[2020.09.07-11.38.52:425][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.07-11.38.52:425][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.07-11.38.52:653][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/ourgame/UE4/Content/' took 0.04s
+[2020.09.07-11.38.53:015][  0]LogWindows: Warning: CreateProc failed: 系统找不到指定的文件。 (0x00000002)
+[2020.09.07-11.38.53:015][  0]LogWindows: Warning: URL: E:/Git/bin/git.exe version
+[2020.09.07-11.38.53:015][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.730
+[2020.09.07-11.38.53:015][  0]Cmd: MAP LOAD FILE="E:/UE4/ourgame/UE4/Content/Maps/ArenaMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.07-11.38.53:131][  0]LightingResults: New page: 光照构建
+[2020.09.07-11.38.53:132][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.07-11.38.53:132][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.07-11.38.53:132][  0]MapCheck: New page: 地图检测
+[2020.09.07-11.38.53:132][  0]LightingResults: New page: 光照构建
+[2020.09.07-11.38.53:143][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000191C5A07C00), frame # 0
+[2020.09.07-11.38.53:143][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000191C5A43100), frame # 0
+[2020.09.07-11.38.53:144][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.09.07-11.39.05:675][  0]LogAIModule: Creating AISystem for world ArenaMap
+[2020.09.07-11.39.05:675][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000191C999BE00), frame # 0
+[2020.09.07-11.39.05:675][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000191C834AE80), frame # 0
+[2020.09.07-11.39.06:948][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.07-11.39.07:086][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.09.07-11.39.07:086][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.07-11.39.07:086][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.069毫秒。
+[2020.09.07-11.39.07:086][  0]LogFileHelpers: Loading map 'ArenaMap' took 14.071
+[2020.09.07-11.39.07:102][  0]LogUnrealEdMisc: Total Editor Startup Time, took 24.816
+[2020.09.07-11.39.08:939][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-11.39.08:974][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-11.39.08:982][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-11.39.08:990][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.07-11.39.09:165][  0]LogCollectionManager: Loaded 0 collections in 0.000992 seconds
+[2020.09.07-11.39.09:527][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/ourgame/UE4/Saved/Collections/' took 0.00s
+[2020.09.07-11.39.09:527][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/ourgame/UE4/Content/Developers/大佬/Collections/' took 0.00s
+[2020.09.07-11.39.09:527][  0]LogFileCache: Scanning file cache for directory 'E:/UE4/ourgame/UE4/Content/Collections/' took 0.00s
+[2020.09.07-11.39.09:527][  0]LogContentBrowser: Native class hierarchy populated in 0.0697 seconds. Added 3429 classes and 823 folders.
+[2020.09.07-11.39.09:809][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.09.07-11.39.11:613][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.09.07-11.39.11:778][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 2 classes and 0 folders.
+[2020.09.07-11.39.13:010][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.07-11.39.13:014][  0]LogSlate: Took 0.003020 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.09.07-11.39.13:015][  0]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.07-11.39.13:156][  0]LogSlate: Took 0.014095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.07-11.39.14:074][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2020.09.07-11.39.15:127][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.09.07-11.39.15:128][  0]LogLoad: (Engine Initialization) Total time: 32.84 seconds
+[2020.09.07-11.39.15:128][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.07-11.39.15:414][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.09.07-11.39.15:793][  0]LogSlate: Took 0.023412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.07-11.39.15:834][  1]LogAssetRegistry: Asset discovery search completed in 28.5012 seconds
+[2020.09.07-11.39.15:870][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.09.07-11.39.42:980][198]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.09.07-11.39.43:239][198]LogTexture: Display: 正在编译纹理：Fly_D（AutoDXT、256X256）
+[2020.09.07-11.39.43:239][198]LogMaterial: Display: Missing cached shader map for material Fly_M, compiling. 
+[2020.09.07-11.40.21:511][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2020.09.07-11.40.21:511][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.09.07-11.40.21:511][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：ThumbnailTexture（DXT1、512X512）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：SplatterMask_D（AutoDXT、512X512）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Cliff01_Height___id_height_（AutoDXT、2048X2048）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：NoizesBig_D（AutoDXT、2048X2048）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Caustics_D（AutoDXT、256X256）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Pebbles_01_POM（AutoDXT、2048X2048）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Sand_01_NRM（BC5、2048X2048）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Sand_01（AutoDXT、2048X2048）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Road_D_SPEC（AutoDXT、2048X2048）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Road_D_NRM（BC5、2048X2048）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Road_D（AutoDXT、2048X2048）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Grass0072_N（BC5、1024X1024）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Cliff01_Normal___id_normal_（BC5、2048X2048）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Cliff01_D_H（AutoDXT、2048X2048）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Grass0072_D（AutoDXT、1024X1024）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Stones01_D_H（AutoDXT、2048X2048）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Stone_01LOD3_D（AutoDXT、256X256）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Stone_01LOD2_N（BC5、512X512）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Stone_01LOD2_D（AutoDXT、512X512）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Stone_01LOD1_N（BC5、512X512）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Stone_01LOD1_D（AutoDXT、512X512）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Cliffs0060_H（AutoDXT、2048X2048）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Stone_Default002a_N（BC5、2048X2048）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Stone_01_S（AutoDXT、4096X4096）
+[2020.09.07-11.40.21:511][198]LogTexture: Display: 正在编译纹理：Masks（AutoDXT、2048X2048）
+[2020.09.07-11.40.32:329][198]LogTexture: Display: 正在编译纹理：Stone_01_D（AutoDXT、4096X4096）
+[2020.09.07-11.40.32:329][198]LogTexture: Display: 正在编译纹理：Tree_Bark_OCC（AutoDXT、1024X2048）
+[2020.09.07-11.40.32:329][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.40.33:079][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 55
+[2020.09.07-11.40.33:079][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 45
+[2020.09.07-11.40.33:079][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2020.09.07-11.40.33:079][198]LogTexture: Display: 正在编译纹理：Tree_Bark_S（AutoDXT、1024X2048）
+[2020.09.07-11.40.33:079][198]LogTexture: Display: 正在编译纹理：Pebbles_01_D3（AutoDXT、2048X2048）
+[2020.09.07-11.40.41:996][198]LogTexture: Display: 正在编译纹理：Tree_Bark_N（BC5、1024X2048）
+[2020.09.07-11.40.41:996][198]LogTexture: Display: 正在编译纹理：Tree_Bark_DISP（AutoDXT、1024X2048）
+[2020.09.07-11.40.41:996][198]LogTexture: Display: 正在编译纹理：Tree_Bark_D（AutoDXT、1024X2048）
+[2020.09.07-11.40.41:996][198]LogTexture: Display: 正在编译纹理：Pebbles_01_N（BC5、2048X2048）
+[2020.09.07-11.40.43:704][198]LogTexture: Display: 正在编译纹理：Orange_Pine_Bark_OCC（AutoDXT、256X1024）
+[2020.09.07-11.40.43:704][198]LogTexture: Display: 正在编译纹理：Moss_D（AutoDXT、1024X1024）
+[2020.09.07-11.40.43:704][198]LogTexture: Display: 正在编译纹理：Pebbles_01_S（AutoDXT、2048X2048）
+[2020.09.07-11.40.50:650][198]LogTexture: Display: 正在编译纹理：Branch_N（AutoDXT、1024X512）
+[2020.09.07-11.40.50:650][198]LogTexture: Display: 正在编译纹理：Branch_D（AutoDXT、1024X512）
+[2020.09.07-11.40.50:650][198]LogTexture: Display: 正在编译纹理：FirBranch_N（AutoDXT、2048X2048）
+[2020.09.07-11.40.50:650][198]LogTexture: Display: 正在编译纹理：FirBranch_D（AutoDXT、2048X2048）
+[2020.09.07-11.40.50:650][198]LogTexture: Display: 正在编译纹理：Cliffs0060_S（AutoDXT、2048X2048）
+[2020.09.07-11.40.58:654][198]LogTexture: Display: 正在编译纹理：BillboardAtlass_D（AutoDXT、1024X1024）
+[2020.09.07-11.40.58:654][198]LogTexture: Display: 正在编译纹理：Clouds（AutoDXT、64X64）
+[2020.09.07-11.40.58:654][198]LogTexture: Display: 正在编译纹理：Waves_N（BC5、2048X2048）
+[2020.09.07-11.40.58:654][198]LogTexture: Display: 正在编译纹理：Noize_Wave_N（BC5、512X512）
+[2020.09.07-11.40.58:654][198]LogTexture: Display: 正在编译纹理：Grass00_S（DXT1、2048X2048）
+[2020.09.07-11.40.58:654][198]LogTexture: Display: 正在编译纹理：Grass00_N（BC5、2048X2048）
+[2020.09.07-11.40.58:654][198]LogTexture: Display: 正在编译纹理：Grass00_D（DXT5、2048X2048）
+[2020.09.07-11.40.58:654][198]LogTexture: Display: 正在编译纹理：DirtyLense_D（AutoDXT、1920X1080）
+[2020.09.07-11.40.58:654][198]LogTexture: Display: 正在编译纹理：AberartionHexFlare（BGRA8、128X128）
+[2020.09.07-11.40.58:654][198]LogTexture: Display: 正在编译纹理：PineBranch_N（AutoDXT、2048X2048）
+[2020.09.07-11.40.58:654][198]LogTexture: Display: 正在编译纹理：T_Sand_D（AutoDXT、2048X2048）
+[2020.09.07-11.41.09:013][198]LogTexture: Display: 正在编译纹理：Pine_Branch_D（AutoDXT、2048X2048）
+[2020.09.07-11.41.09:013][198]LogTexture: Display: 正在编译纹理：Bush_trunk（AutoDXT、512X512）
+[2020.09.07-11.41.09:013][198]LogTexture: Display: 正在编译纹理：FirTree_D（AutoDXT、1024X1024）
+[2020.09.07-11.41.09:013][198]LogTexture: Display: 正在编译纹理：Tree_Bush_Leaves_N（AutoDXT、1024X1024）
+[2020.09.07-11.41.09:013][198]LogTexture: Display: 正在编译纹理：T_Sand_N2（BC5、2048X2048）
+[2020.09.07-11.41.10:320][198]LogTexture: Display: 正在编译纹理：Tree_Bush_Leaves_D（AutoDXT、1024X1024）
+[2020.09.07-11.41.10:320][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.10:852][198]LogTexture: Display: 正在编译纹理：Sky_D（AutoDXT、2048X2048）
+[2020.09.07-11.41.10:852][198]LogStaticMesh: 正在构建静态网格体Stone_03……
+[2020.09.07-11.41.11:113][198]LogStaticMesh: Built static mesh [0.23s] /Game/LandscapeAutoMaterial/Meshes/Stones/Stone_03.Stone_03
+[2020.09.07-11.41.11:370][198]LogStaticMesh: 正在构建静态网格体Stone_02……
+[2020.09.07-11.41.11:454][198]LogTexture: Display: 正在编译纹理：Foam_D（AutoDXT、1024X1024）
+[2020.09.07-11.41.11:454][198]LogStaticMesh: Built static mesh [0.08s] /Game/LandscapeAutoMaterial/Meshes/Stones/Stone_02.Stone_02
+[2020.09.07-11.41.11:656][198]LogMaterial: Display: Missing cached shader map for material Stone_LOD3_2, compiling. 
+[2020.09.07-11.41.11:728][198]LogMaterial: Display: Missing cached shader map for material Stone_LOD2, compiling. 
+[2020.09.07-11.41.11:773][198]LogMaterial: Display: Missing cached shader map for material Stone_LOD1, compiling. 
+[2020.09.07-11.41.11:837][198]LogMaterial: Display: Missing cached shader map for material Stone_01_M, compiling. 
+[2020.09.07-11.41.12:142][198]LogStaticMesh: 正在构建静态网格体Stone_01……
+[2020.09.07-11.41.12:216][198]LogStaticMesh: Built static mesh [0.07s] /Game/LandscapeAutoMaterial/Meshes/Stones/Stone_01.Stone_01
+[2020.09.07-11.41.12:246][198]LogStaticMesh: 正在构建静态网格体Grass00_Flower06……
+[2020.09.07-11.41.12:249][198]LogStaticMesh: Built static mesh [0.01s] /Game/LandscapeAutoMaterial/Meshes/Grass/BigGrass/Grass00_Flower06.Grass00_Flower06
+[2020.09.07-11.41.12:291][198]LogStaticMesh: 正在构建静态网格体Grass00……
+[2020.09.07-11.41.12:396][198]LogStaticMesh: Built static mesh [0.10s] /Game/LandscapeAutoMaterial/Meshes/Grass/SmallGrass/Rescaled/Grass00.Grass00
+[2020.09.07-11.41.12:427][198]LogMaterial: Display: Missing cached shader map for material Trunk_M, compiling. 
+[2020.09.07-11.41.12:492][198]LogMaterial: Display: Missing cached shader map for material Trunk_M, compiling. 
+[2020.09.07-11.41.12:547][198]LogMaterial: Display: Missing cached shader map for material Branch_M, compiling. 
+[2020.09.07-11.41.12:618][198]LogMaterial: Display: Missing cached shader map for material Billboard_Atlass, compiling. 
+[2020.09.07-11.41.12:843][198]LogStaticMesh: 正在构建静态网格体Leave-Tree-01a……
+[2020.09.07-11.41.13:910][198]LogTexture: Display: 正在编译纹理：Texture2D_0（BGRA8、512X512）
+[2020.09.07-11.41.13:910][198]LogTexture: Display: 正在编译纹理：Texture2D_15（BGRA8、128X128）
+[2020.09.07-11.41.13:910][198]LogTexture: Display: 正在编译纹理：Texture2D_17（BGRA8、128X128）
+[2020.09.07-11.41.13:910][198]LogTexture: Display: 正在编译纹理：Texture2D_20（BGRA8、128X128）
+[2020.09.07-11.41.13:910][198]LogTexture: Display: 正在编译纹理：Texture2D_24（BGRA8、128X128）
+[2020.09.07-11.41.13:910][198]LogTexture: Display: 正在编译纹理：Texture2D_26（BGRA8、128X128）
+[2020.09.07-11.41.13:910][198]LogTexture: Display: 正在编译纹理：Texture2D_30（BGRA8、128X128）
+[2020.09.07-11.41.13:910][198]LogTexture: Display: 正在编译纹理：Texture2D_53（BGRA8、128X128）
+[2020.09.07-11.41.13:910][198]LogTexture: Display: 正在编译纹理：Texture2D_58（BGRA8、128X128）
+[2020.09.07-11.41.13:910][198]LogTexture: Display: 正在编译纹理：Texture2D_60（BGRA8、128X128）
+[2020.09.07-11.41.13:910][198]LogTexture: Display: 正在编译纹理：Texture2D_62（BGRA8、128X128）
+[2020.09.07-11.41.13:910][198]LogTexture: Display: 正在编译纹理：Texture2D_64（BGRA8、128X128）
+[2020.09.07-11.41.13:910][198]LogTexture: Display: 正在编译纹理：Texture2D_66（BGRA8、128X128）
+[2020.09.07-11.41.13:910][198]LogTexture: Display: 正在编译纹理：Texture2D_68（BGRA8、128X128）
+[2020.09.07-11.41.13:910][198]LogTexture: Display: 正在编译纹理：Texture2D_69（BGRA8、128X128）
+[2020.09.07-11.41.13:910][198]LogTexture: Display: 正在编译纹理：Texture2D_70（BGRA8、128X128）
+[2020.09.07-11.41.13:910][198]LogTexture: Display: 正在编译纹理：Texture2D_75（BGRA8、128X128）
+[2020.09.07-11.41.13:910][198]LogTexture: Display: 正在编译纹理：Texture2D_77（BGRA8、128X128）
+[2020.09.07-11.41.13:910][198]LogTexture: Display: 正在编译纹理：Texture2D_79（BGRA8、128X128）
+[2020.09.07-11.41.13:910][198]LogStaticMesh: Built static mesh [1.07s] /Game/LandscapeAutoMaterial/Meshes/Trees/Leave-Tree/Leave-Tree-01a.Leave-Tree-01a
+[2020.09.07-11.41.13:956][198]LogStaticMesh: 正在构建静态网格体Grass03……
+[2020.09.07-11.41.14:349][198]LogStaticMesh: Built static mesh [0.39s] /Game/LandscapeAutoMaterial/Meshes/Grass/SmallGrass/Rescaled/Grass03.Grass03
+[2020.09.07-11.41.14:378][198]LogStaticMesh: 正在构建静态网格体Grass01……
+[2020.09.07-11.41.14:815][198]LogStaticMesh: Built static mesh [0.44s] /Game/LandscapeAutoMaterial/Meshes/Grass/SmallGrass/Rescaled/Grass01.Grass01
+[2020.09.07-11.41.14:820][198]LogStaticMesh: 正在构建静态网格体Grass00Big……
+[2020.09.07-11.41.14:926][198]LogStaticMesh: Built static mesh [0.11s] /Game/LandscapeAutoMaterial/Meshes/Grass/SmallGrass/Rescaled/Grass00Big.Grass00Big
+[2020.09.07-11.41.14:943][198]LogStaticMesh: 正在构建静态网格体Grass03……
+[2020.09.07-11.41.14:948][198]LogStaticMesh: Built static mesh [0.01s] /Game/LandscapeAutoMaterial/Meshes/Grass/SmallGrass/Grass03.Grass03
+[2020.09.07-11.41.14:957][198]LogStaticMesh: 正在构建静态网格体Grass02……
+[2020.09.07-11.41.14:963][198]LogStaticMesh: Built static mesh [0.01s] /Game/LandscapeAutoMaterial/Meshes/Grass/SmallGrass/Grass02.Grass02
+[2020.09.07-11.41.14:980][198]LogStaticMesh: 正在构建静态网格体Grass01……
+[2020.09.07-11.41.14:987][198]LogStaticMesh: Built static mesh [0.01s] /Game/LandscapeAutoMaterial/Meshes/Grass/SmallGrass/Grass01.Grass01
+[2020.09.07-11.41.14:991][198]LogStaticMesh: 正在构建静态网格体Grass00……
+[2020.09.07-11.41.14:992][198]LogStaticMesh: Built static mesh [0.00s] /Game/LandscapeAutoMaterial/Meshes/Grass/SmallGrass/Grass00.Grass00
+[2020.09.07-11.41.15:002][198]LogStaticMesh: 正在构建静态网格体Grass04……
+[2020.09.07-11.41.15:007][198]LogStaticMesh: Built static mesh [0.01s] /Game/LandscapeAutoMaterial/Meshes/Grass/SmallGrass/Grass04.Grass04
+[2020.09.07-11.41.15:009][198]LogStaticMesh: 正在构建静态网格体Bush_02_2……
+[2020.09.07-11.41.15:009][198]LogStaticMesh: Built static mesh [0.00s] /Game/LandscapeAutoMaterial/Meshes/Bushes/Bush_02_2.Bush_02_2
+[2020.09.07-11.41.15:013][198]LogStaticMesh: 正在构建静态网格体Bush_02_1……
+[2020.09.07-11.41.15:013][198]LogStaticMesh: Built static mesh [0.00s] /Game/LandscapeAutoMaterial/Meshes/Bushes/Bush_02_1.Bush_02_1
+[2020.09.07-11.41.15:015][198]LogStaticMesh: 正在构建静态网格体Bush_02……
+[2020.09.07-11.41.15:015][198]LogStaticMesh: Built static mesh [0.00s] /Game/LandscapeAutoMaterial/Meshes/Bushes/Bush_02.Bush_02
+[2020.09.07-11.41.15:016][198]LogStaticMesh: 正在构建静态网格体Bush_01_2……
+[2020.09.07-11.41.15:017][198]LogStaticMesh: Built static mesh [0.00s] /Game/LandscapeAutoMaterial/Meshes/Bushes/Bush_01_2.Bush_01_2
+[2020.09.07-11.41.15:018][198]LogStaticMesh: 正在构建静态网格体Bush_01_1……
+[2020.09.07-11.41.15:019][198]LogStaticMesh: Built static mesh [0.00s] /Game/LandscapeAutoMaterial/Meshes/Bushes/Bush_01_1.Bush_01_1
+[2020.09.07-11.41.15:021][198]LogStaticMesh: 正在构建静态网格体Bush_01……
+[2020.09.07-11.41.15:022][198]LogStaticMesh: Built static mesh [0.00s] /Game/LandscapeAutoMaterial/Meshes/Bushes/Bush_01.Bush_01
+[2020.09.07-11.41.15:023][198]LogStaticMesh: 正在构建静态网格体Bush_00_2……
+[2020.09.07-11.41.15:023][198]LogStaticMesh: Built static mesh [0.00s] /Game/LandscapeAutoMaterial/Meshes/Bushes/Bush_00_2.Bush_00_2
+[2020.09.07-11.41.15:024][198]LogStaticMesh: 正在构建静态网格体Bush_00_1……
+[2020.09.07-11.41.15:025][198]LogStaticMesh: Built static mesh [0.00s] /Game/LandscapeAutoMaterial/Meshes/Bushes/Bush_00_1.Bush_00_1
+[2020.09.07-11.41.15:320][198]LogStaticMesh: 正在构建静态网格体Plane……
+[2020.09.07-11.41.15:467][198]LogStaticMesh: Built static mesh [0.15s] /Game/LandscapeAutoMaterial/Meshes/Water/Plane.Plane
+[2020.09.07-11.41.15:603][198]LogStaticMesh: 正在构建静态网格体Pine-Tree-02……
+[2020.09.07-11.41.16:840][198]LogStaticMesh: Built static mesh [1.24s] /Game/LandscapeAutoMaterial/Meshes/Trees/Pine-Tree/Pine-Tree-02.Pine-Tree-02
+[2020.09.07-11.41.16:846][198]LogMaterial: Display: Missing cached shader map for material Branch_Fir-Tree_M, compiling. 
+[2020.09.07-11.41.16:985][198]LogStaticMesh: 正在构建静态网格体Pine-Tree-01……
+[2020.09.07-11.41.18:194][198]LogStaticMesh: Built static mesh [1.21s] /Game/LandscapeAutoMaterial/Meshes/Trees/Pine-Tree/Pine-Tree-01.Pine-Tree-01
+[2020.09.07-11.41.18:200][198]LogMaterial: Display: Missing cached shader map for material Trunk_M, compiling. 
+[2020.09.07-11.41.18:609][198]LogStaticMesh: 正在构建静态网格体Leave-Tree-05……
+[2020.09.07-11.41.38:595][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 960
+[2020.09.07-11.41.38:595][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 950
+[2020.09.07-11.41.38:595][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 940
+[2020.09.07-11.41.38:595][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 930
+[2020.09.07-11.41.38:595][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 920
+[2020.09.07-11.41.38:595][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 910
+[2020.09.07-11.41.38:595][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 900
+[2020.09.07-11.41.38:595][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 890
+[2020.09.07-11.41.38:595][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 880
+[2020.09.07-11.41.38:595][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 870
+[2020.09.07-11.41.38:595][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 860
+[2020.09.07-11.41.38:595][198]LogStaticMesh: Built static mesh [19.99s] /Game/LandscapeAutoMaterial/Meshes/Trees/Leave-Tree/Leave-Tree-05.Leave-Tree-05
+[2020.09.07-11.41.39:048][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 850
+[2020.09.07-11.41.39:048][198]LogStaticMesh: 正在构建静态网格体Leave-Tree-04……
+[2020.09.07-11.41.42:136][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 840
+[2020.09.07-11.41.42:136][198]LogStaticMesh: Built static mesh [3.09s] /Game/LandscapeAutoMaterial/Meshes/Trees/Leave-Tree/Leave-Tree-04.Leave-Tree-04
+[2020.09.07-11.41.42:199][198]LogStaticMesh: 正在构建静态网格体Fir-Tree-03……
+[2020.09.07-11.41.43:077][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 830
+[2020.09.07-11.41.43:077][198]LogStaticMesh: Built static mesh [0.88s] /Game/LandscapeAutoMaterial/Meshes/Trees/Fir-Tree/Fir-Tree-03.Fir-Tree-03
+[2020.09.07-11.41.43:142][198]LogStaticMesh: 正在构建静态网格体Fir-Tree-02……
+[2020.09.07-11.41.44:100][198]LogStaticMesh: Built static mesh [0.96s] /Game/LandscapeAutoMaterial/Meshes/Trees/Fir-Tree/Fir-Tree-02.Fir-Tree-02
+[2020.09.07-11.41.44:112][198]LogStaticMesh: 正在构建静态网格体Bush-03……
+[2020.09.07-11.41.44:129][198]LogStaticMesh: Built static mesh [0.02s] /Game/LandscapeAutoMaterial/Meshes/Trees/Bushes/Bush-03.Bush-03
+[2020.09.07-11.41.44:139][198]LogStaticMesh: 正在构建静态网格体Bush-02……
+[2020.09.07-11.41.44:182][198]LogStaticMesh: Built static mesh [0.04s] /Game/LandscapeAutoMaterial/Meshes/Trees/Bushes/Bush-02.Bush-02
+[2020.09.07-11.41.44:209][198]LogStaticMesh: 正在构建静态网格体Bush-01……
+[2020.09.07-11.41.44:337][198]LogStaticMesh: Built static mesh [0.13s] /Game/LandscapeAutoMaterial/Meshes/Trees/Bushes/Bush-01.Bush-01
+[2020.09.07-11.41.44:340][198]LogMaterial: Display: Missing cached shader map for material SkySphere01_M, compiling. 
+[2020.09.07-11.41.44:347][198]LogStaticMesh: 正在构建静态网格体SkySphere……
+[2020.09.07-11.41.44:349][198]LogStaticMesh: Built static mesh [0.00s] /Game/LandscapeAutoMaterial/Meshes/Sky/SkySphere.SkySphere
+[2020.09.07-11.41.44:371][198]LogStaticMesh: 正在构建静态网格体Grass01……
+[2020.09.07-11.41.44:379][198]LogStaticMesh: Built static mesh [0.01s] /Game/LandscapeAutoMaterial/Meshes/Grass/BigGrass/Grass01.Grass01
+[2020.09.07-11.41.44:385][198]LogStaticMesh: 正在构建静态网格体Grass00_Flower04……
+[2020.09.07-11.41.44:389][198]LogStaticMesh: Built static mesh [0.00s] /Game/LandscapeAutoMaterial/Meshes/Grass/BigGrass/Grass00_Flower04.Grass00_Flower04
+[2020.09.07-11.41.44:397][198]LogStaticMesh: 正在构建静态网格体Grass00_Flower02……
+[2020.09.07-11.41.44:405][198]LogStaticMesh: Built static mesh [0.01s] /Game/LandscapeAutoMaterial/Meshes/Grass/BigGrass/Grass00_Flower02.Grass00_Flower02
+[2020.09.07-11.41.44:413][198]LogStaticMesh: 正在构建静态网格体Grass00_Flower01……
+[2020.09.07-11.41.44:421][198]LogStaticMesh: Built static mesh [0.01s] /Game/LandscapeAutoMaterial/Meshes/Grass/BigGrass/Grass00_Flower01.Grass00_Flower01
+[2020.09.07-11.41.44:436][198]LogStaticMesh: 正在构建静态网格体Grass00_Flower00……
+[2020.09.07-11.41.44:442][198]LogStaticMesh: Built static mesh [0.01s] /Game/LandscapeAutoMaterial/Meshes/Grass/BigGrass/Grass00_Flower00.Grass00_Flower00
+[2020.09.07-11.41.44:447][198]LogStaticMesh: 正在构建静态网格体Grass00……
+[2020.09.07-11.41.44:448][198]LogStaticMesh: Built static mesh [0.00s] /Game/LandscapeAutoMaterial/Meshes/Grass/BigGrass/Grass00.Grass00
+[2020.09.07-11.41.44:455][198]LogMaterial: Display: Missing cached shader map for material Water_M, compiling. 
+[2020.09.07-11.41.44:565][198]LogMaterial: Display: Missing cached shader map for material Water_M, compiling. 
+[2020.09.07-11.41.44:615][198]LogMaterial: Display: Missing cached shader map for material Grass00_M, compiling. 
+[2020.09.07-11.41.44:668][198]LogMaterial: Display: Missing cached shader map for material Grass00_M, compiling. 
+[2020.09.07-11.41.44:720][198]LogStaticMesh: 正在构建静态网格体Bush_00……
+[2020.09.07-11.41.44:720][198]LogStaticMesh: Built static mesh [0.00s] /Game/LandscapeAutoMaterial/Meshes/Bushes/Bush_00.Bush_00
+[2020.09.07-11.41.44:878][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.44:972][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.45:031][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.45:107][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.45:165][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.45:243][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.45:301][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.45:378][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.45:436][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.45:515][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1874
+[2020.09.07-11.41.45:515][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.45:576][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.45:656][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.45:716][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.45:793][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2204
+[2020.09.07-11.41.45:793][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.45:853][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.45:929][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.45:988][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.46:065][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.46:127][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.46:206][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.46:268][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.46:349][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.46:410][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.46:490][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.46:551][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.46:628][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.46:686][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.46:765][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.46:830][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.46:911][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.46:988][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.47:064][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.47:141][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.47:221][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.47:303][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.47:386][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.47:465][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.47:543][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.47:620][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.48:262][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4720
+[2020.09.07-11.41.49:500][198]LogTexture: Display: 正在编译纹理：Checker2（AutoDXT、512X512）
+[2020.09.07-11.41.49:500][198]LogTexture: Display: 正在编译纹理：WaterfallMask_N（BC5、512X512）
+[2020.09.07-11.41.49:500][198]LogTexture: Display: 正在编译纹理：Foam_Masks（AutoDXT、512X512）
+[2020.09.07-11.41.49:500][198]LogStaticMesh: 正在构建静态网格体Cylinder1……
+[2020.09.07-11.41.49:503][198]LogStaticMesh: Built static mesh [0.00s] /Game/LandscapeAutoMaterial/RiverTool/SBD_Fundation/Meshes/Cylinder1.Cylinder1
+[2020.09.07-11.41.49:527][198]LogMaterial: Display: Missing cached shader map for material Gray, compiling. 
+[2020.09.07-11.41.50:059][198]LogTexture: Display: 正在编译纹理：T_FallingWater_02_N（BC5、512X512）
+[2020.09.07-11.41.50:059][198]LogTexture: Display: 正在编译纹理：T_FallingWater_02（AutoDXT、512X512）
+[2020.09.07-11.41.50:059][198]LogTexture: Display: 正在编译纹理：Texture2D_0（BGRA8、64X64）
+[2020.09.07-11.41.50:059][198]LogTexture: Display: 正在编译纹理：Texture2D_3（BGRA8、64X64）
+[2020.09.07-11.41.50:059][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4737
+[2020.09.07-11.41.50:059][198]LogTexture: Display: 正在编译纹理：FoamBubbles（AutoDXT、1024X1024）
+[2020.09.07-11.41.50:059][198]LogTexture: Display: 正在编译纹理：FlowTexture（AutoDXT、2048X2048）
+[2020.09.07-11.41.54:114][198]LogMaterial: Display: Missing cached shader map for material RIVER_M, compiling. 
+[2020.09.07-11.41.54:178][198]LogMaterial: Display: Missing cached shader map for material RIVER_M, compiling. 
+[2020.09.07-11.41.54:235][198]LogStaticMesh: 正在构建静态网格体River_Plane_SM……
+[2020.09.07-11.41.54:237][198]LogStaticMesh: Built static mesh [0.00s] /Game/LandscapeAutoMaterial/RiverTool/Meshes/River_Plane_SM.River_Plane_SM
+[2020.09.07-11.41.54:274][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.54:328][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.54:405][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.54:518][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.54:603][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.54:685][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.55:090][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5406
+[2020.09.07-11.41.55:095][198]LogTexture: Display: 正在编译纹理：Texture2D_0（BGRA8、512X512）
+[2020.09.07-11.41.55:095][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.55:977][198]LogTexture: Display: 正在编译纹理：Texture2D_32（BGRA8、128X128）
+[2020.09.07-11.41.55:977][198]LogTexture: Display: 正在编译纹理：Texture2D_33（BGRA8、128X128）
+[2020.09.07-11.41.55:977][198]LogTexture: Display: 正在编译纹理：Texture2D_36（BGRA8、128X128）
+[2020.09.07-11.41.55:977][198]LogTexture: Display: 正在编译纹理：Texture2D_15（BGRA8、512X512）
+[2020.09.07-11.41.55:977][198]LogTexture: Display: 正在编译纹理：Texture2D_37（BGRA8、128X128）
+[2020.09.07-11.41.55:977][198]LogTexture: Display: 正在编译纹理：Texture2D_38（BGRA8、128X128）
+[2020.09.07-11.41.55:982][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.56:124][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.56:203][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.56:298][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.56:372][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5694
+[2020.09.07-11.41.56:493][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.56:574][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.56:668][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.57:101][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.57:162][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.57:251][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.57:314][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.57:427][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6300
+[2020.09.07-11.41.57:792][198]LogBlueprint: Warning: [Compiler PersistentLevel.Sea-Map] 节点 未知 未引用有效的关卡actor
+[2020.09.07-11.41.57:792][198]LogBlueprint: Warning: [Compiler PersistentLevel.Sea-Map] 节点 未知 未引用有效的关卡actor
+[2020.09.07-11.41.57:971][198]LogTexture: Display: 正在编译纹理：Texture2D_11（BGRA8、128X128）
+[2020.09.07-11.41.57:971][198]LogTexture: Display: 正在编译纹理：Texture2D_14（BGRA8、128X128）
+[2020.09.07-11.41.57:971][198]LogTexture: Display: 正在编译纹理：Texture2D_16（BGRA8、128X128）
+[2020.09.07-11.41.57:971][198]LogTexture: Display: 正在编译纹理：Texture2D_21（BGRA8、128X128）
+[2020.09.07-11.41.57:974][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.58:088][198]LogTexture: Display: 正在编译纹理：Texture2D_25（BGRA8、128X128）
+[2020.09.07-11.41.58:088][198]LogTexture: Display: 正在编译纹理：Texture2D_41（BGRA8、128X128）
+[2020.09.07-11.41.58:088][198]LogTexture: Display: 正在编译纹理：Texture2D_0（BGRA8、512X512）
+[2020.09.07-11.41.58:088][198]LogTexture: Display: 正在编译纹理：Texture2D_45（BGRA8、128X128）
+[2020.09.07-11.41.58:088][198]LogTexture: Display: 正在编译纹理：Texture2D_46（BGRA8、128X128）
+[2020.09.07-11.41.58:088][198]LogTexture: Display: 正在编译纹理：Texture2D_48（BGRA8、128X128）
+[2020.09.07-11.41.58:088][198]LogTexture: Display: 正在编译纹理：Texture2D_49（BGRA8、128X128）
+[2020.09.07-11.41.58:088][198]LogTexture: Display: 正在编译纹理：Texture2D_55（BGRA8、128X128）
+[2020.09.07-11.41.58:088][198]LogTexture: Display: 正在编译纹理：Texture2D_60（BGRA8、128X128）
+[2020.09.07-11.41.58:088][198]LogTexture: Display: 正在编译纹理：Texture2D_62（BGRA8、128X128）
+[2020.09.07-11.41.58:088][198]LogTexture: Display: 正在编译纹理：Texture2D_63（BGRA8、128X128）
+[2020.09.07-11.41.58:088][198]LogTexture: Display: 正在编译纹理：Texture2D_64（BGRA8、128X128）
+[2020.09.07-11.41.58:088][198]LogTexture: Display: 正在编译纹理：Texture2D_66（BGRA8、128X128）
+[2020.09.07-11.41.58:088][198]LogTexture: Display: 正在编译纹理：Texture2D_69（BGRA8、128X128）
+[2020.09.07-11.41.58:088][198]LogTexture: Display: 正在编译纹理：Texture2D_7（BGRA8、128X128）
+[2020.09.07-11.41.58:088][198]LogTexture: Display: 正在编译纹理：Texture2D_9（BGRA8、128X128）
+[2020.09.07-11.41.58:088][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.58:195][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.58:279][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.58:359][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.58:470][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.58:553][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.58:663][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.58:755][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.58:840][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.58:942][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.59:025][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.59:105][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.59:214][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.59:302][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.59:386][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.59:485][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.59:567][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.59:650][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.59:760][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.59:850][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.41.59:932][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.00:041][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.00:143][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.00:224][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.00:387][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.00:466][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.00:569][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.00:655][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.00:737][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.00:843][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.00:935][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.01:016][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.01:083][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9348
+[2020.09.07-11.42.01:124][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.01:211][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.01:289][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.01:402][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.01:484][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.01:595][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.01:673][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9784
+[2020.09.07-11.42.01:682][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.01:765][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.01:879][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.01:969][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.02:052][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.02:133][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.02:218][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.02:300][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.02:384][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.02:466][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.02:548][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.02:628][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.02:708][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.02:792][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.02:874][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.02:959][198]LogMaterial: Display: Missing cached shader map for material Landscape_Automaterial_M, compiling. 
+[2020.09.07-11.42.04:491][198]LogStaticMesh: 正在构建静态网格体Plane_Ocean_200x200……
+[2020.09.07-11.42.05:971][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11534
+[2020.09.07-11.42.05:971][198]LogStaticMesh: Built static mesh [1.48s] /Game/LandscapeAutoMaterial/Meshes/Water/Plane_Ocean_200x200.Plane_Ocean_200x200
+[2020.09.07-11.42.06:463][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11524
+[2020.09.07-11.42.06:508][198]LogMaterial: Display: Missing cached shader map for material Water_M, compiling. 
+[2020.09.07-11.42.21:804][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11602
+[2020.09.07-11.42.21:804][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11592
+[2020.09.07-11.42.21:804][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11582
+[2020.09.07-11.42.21:804][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11572
+[2020.09.07-11.42.21:804][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11562
+[2020.09.07-11.42.21:804][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11552
+[2020.09.07-11.42.21:804][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11542
+[2020.09.07-11.42.21:804][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11532
+[2020.09.07-11.42.21:804][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11522
+[2020.09.07-11.42.21:804][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11512
+[2020.09.07-11.42.21:804][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11502
+[2020.09.07-11.42.21:804][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11492
+[2020.09.07-11.42.21:804][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11482
+[2020.09.07-11.42.21:808][198]LogTexture: Display: 正在编译纹理：Texture2D_1001（BGRA8、512X512）
+[2020.09.07-11.42.21:808][198]LogTexture: Display: 正在编译纹理：Texture2D_1003（BGRA8、512X512）
+[2020.09.07-11.42.21:816][198]LogTexture: Display: 正在编译纹理：Texture2D_1005（BGRA8、512X512）
+[2020.09.07-11.42.21:820][198]LogTexture: Display: 正在编译纹理：Texture2D_1007（BGRA8、512X512）
+[2020.09.07-11.42.21:830][198]LogTexture: Display: 正在编译纹理：Texture2D_1009（BGRA8、512X512）
+[2020.09.07-11.42.21:834][198]LogTexture: Display: 正在编译纹理：Texture2D_101（BGRA8、512X512）
+[2020.09.07-11.42.21:844][198]LogTexture: Display: 正在编译纹理：Texture2D_1011（BGRA8、512X512）
+[2020.09.07-11.42.21:845][198]LogTexture: Display: 正在编译纹理：Texture2D_1013（BGRA8、512X512）
+[2020.09.07-11.42.21:852][198]LogTexture: Display: 正在编译纹理：Texture2D_1015（BGRA8、512X512）
+[2020.09.07-11.42.21:883][198]LogTexture: Display: 正在编译纹理：Texture2D_1017（BGRA8、512X512）
+[2020.09.07-11.42.21:883][198]LogTexture: Display: 正在编译纹理：Texture2D_1019（BGRA8、512X512）
+[2020.09.07-11.42.21:883][198]LogTexture: Display: 正在编译纹理：Texture2D_1021（BGRA8、512X512）
+[2020.09.07-11.42.21:912][198]LogTexture: Display: 正在编译纹理：Texture2D_1023（BGRA8、512X512）
+[2020.09.07-11.42.21:912][198]LogTexture: Display: 正在编译纹理：Texture2D_103（BGRA8、512X512）
+[2020.09.07-11.42.21:913][198]LogTexture: Display: 正在编译纹理：Texture2D_105（BGRA8、512X512）
+[2020.09.07-11.42.21:913][198]LogTexture: Display: 正在编译纹理：Texture2D_107（BGRA8、512X512）
+[2020.09.07-11.42.21:913][198]LogTexture: Display: 正在编译纹理：Texture2D_109（BGRA8、512X512）
+[2020.09.07-11.42.21:917][198]LogTexture: Display: 正在编译纹理：Texture2D_111（BGRA8、512X512）
+[2020.09.07-11.42.21:919][198]LogTexture: Display: 正在编译纹理：Texture2D_113（BGRA8、512X512）
+[2020.09.07-11.42.21:919][198]LogTexture: Display: 正在编译纹理：Texture2D_115（BGRA8、512X512）
+[2020.09.07-11.42.21:928][198]LogTexture: Display: 正在编译纹理：Texture2D_117（BGRA8、512X512）
+[2020.09.07-11.42.21:935][198]LogTexture: Display: 正在编译纹理：Texture2D_119（BGRA8、512X512）
+[2020.09.07-11.42.21:941][198]LogTexture: Display: 正在编译纹理：Texture2D_121（BGRA8、512X512）
+[2020.09.07-11.42.21:959][198]LogTexture: Display: 正在编译纹理：Texture2D_125（BGRA8、512X512）
+[2020.09.07-11.42.21:960][198]LogTexture: Display: 正在编译纹理：Texture2D_123（BGRA8、512X512）
+[2020.09.07-11.42.21:960][198]LogTexture: Display: 正在编译纹理：Texture2D_127（BGRA8、512X512）
+[2020.09.07-11.42.21:960][198]LogTexture: Display: 正在编译纹理：Texture2D_161（BGRA8、512X512）
+[2020.09.07-11.42.21:963][198]LogTexture: Display: 正在编译纹理：Texture2D_163（BGRA8、512X512）
+[2020.09.07-11.42.21:971][198]LogTexture: Display: 正在编译纹理：Texture2D_165（BGRA8、512X512）
+[2020.09.07-11.42.21:980][198]LogTexture: Display: 正在编译纹理：Texture2D_167（BGRA8、512X512）
+[2020.09.07-11.42.21:984][198]LogTexture: Display: 正在编译纹理：Texture2D_169（BGRA8、512X512）
+[2020.09.07-11.42.21:991][198]LogTexture: Display: 正在编译纹理：Texture2D_171（BGRA8、512X512）
+[2020.09.07-11.42.22:025][198]LogTexture: Display: 正在编译纹理：Texture2D_173（BGRA8、512X512）
+[2020.09.07-11.42.22:025][198]LogTexture: Display: 正在编译纹理：Texture2D_175（BGRA8、512X512）
+[2020.09.07-11.42.22:025][198]LogTexture: Display: 正在编译纹理：Texture2D_177（BGRA8、512X512）
+[2020.09.07-11.42.22:026][198]LogTexture: Display: 正在编译纹理：Texture2D_179（BGRA8、512X512）
+[2020.09.07-11.42.22:026][198]LogTexture: Display: 正在编译纹理：Texture2D_181（BGRA8、512X512）
+[2020.09.07-11.42.22:035][198]LogTexture: Display: 正在编译纹理：Texture2D_183（BGRA8、512X512）
+[2020.09.07-11.42.22:035][198]LogTexture: Display: 正在编译纹理：Texture2D_185（BGRA8、512X512）
+[2020.09.07-11.42.22:041][198]LogTexture: Display: 正在编译纹理：Texture2D_187（BGRA8、512X512）
+[2020.09.07-11.42.22:053][198]LogTexture: Display: 正在编译纹理：Texture2D_191（BGRA8、512X512）
+[2020.09.07-11.42.22:066][198]LogTexture: Display: 正在编译纹理：Texture2D_189（BGRA8、512X512）
+[2020.09.07-11.42.22:075][198]LogTexture: Display: 正在编译纹理：Texture2D_225（BGRA8、512X512）
+[2020.09.07-11.42.22:081][198]LogTexture: Display: 正在编译纹理：Texture2D_227（BGRA8、512X512）
+[2020.09.07-11.42.22:085][198]LogTexture: Display: 正在编译纹理：Texture2D_229（BGRA8、512X512）
+[2020.09.07-11.42.22:085][198]LogTexture: Display: 正在编译纹理：Texture2D_231（BGRA8、512X512）
+[2020.09.07-11.42.22:087][198]LogTexture: Display: 正在编译纹理：Texture2D_233（BGRA8、512X512）
+[2020.09.07-11.42.22:095][198]LogTexture: Display: 正在编译纹理：Texture2D_235（BGRA8、512X512）
+[2020.09.07-11.42.22:102][198]LogTexture: Display: 正在编译纹理：Texture2D_237（BGRA8、512X512）
+[2020.09.07-11.42.22:105][198]LogTexture: Display: 正在编译纹理：Texture2D_239（BGRA8、512X512）
+[2020.09.07-11.42.22:118][198]LogTexture: Display: 正在编译纹理：Texture2D_241（BGRA8、512X512）
+[2020.09.07-11.42.22:118][198]LogTexture: Display: 正在编译纹理：Texture2D_243（BGRA8、512X512）
+[2020.09.07-11.42.22:132][198]LogTexture: Display: 正在编译纹理：Texture2D_245（BGRA8、512X512）
+[2020.09.07-11.42.22:132][198]LogTexture: Display: 正在编译纹理：Texture2D_247（BGRA8、512X512）
+[2020.09.07-11.42.22:132][198]LogTexture: Display: 正在编译纹理：Texture2D_249（BGRA8、512X512）
+[2020.09.07-11.42.22:138][198]LogTexture: Display: 正在编译纹理：Texture2D_253（BGRA8、512X512）
+[2020.09.07-11.42.22:142][198]LogTexture: Display: 正在编译纹理：Texture2D_251（BGRA8、512X512）
+[2020.09.07-11.42.22:152][198]LogTexture: Display: 正在编译纹理：Texture2D_255（BGRA8、512X512）
+[2020.09.07-11.42.22:174][198]LogTexture: Display: 正在编译纹理：Texture2D_289（BGRA8、512X512）
+[2020.09.07-11.42.22:174][198]LogTexture: Display: 正在编译纹理：Texture2D_293（BGRA8、512X512）
+[2020.09.07-11.42.22:174][198]LogTexture: Display: 正在编译纹理：Texture2D_291（BGRA8、512X512）
+[2020.09.07-11.42.22:176][198]LogTexture: Display: 正在编译纹理：Texture2D_295（BGRA8、512X512）
+[2020.09.07-11.42.22:179][198]LogTexture: Display: 正在编译纹理：Texture2D_297（BGRA8、512X512）
+[2020.09.07-11.42.23:273][198]LogTexture: Display: 正在编译纹理：Texture2D_299（BGRA8、512X512）
+[2020.09.07-11.42.23:273][198]LogTexture: Display: 正在编译纹理：Texture2D_301（BGRA8、512X512）
+[2020.09.07-11.42.23:273][198]LogTexture: Display: 正在编译纹理：Texture2D_303（BGRA8、512X512）
+[2020.09.07-11.42.23:273][198]LogTexture: Display: 正在编译纹理：Texture2D_305（BGRA8、512X512）
+[2020.09.07-11.42.23:273][198]LogTexture: Display: 正在编译纹理：Texture2D_307（BGRA8、512X512）
+[2020.09.07-11.42.23:273][198]LogTexture: Display: 正在编译纹理：Texture2D_309（BGRA8、512X512）
+[2020.09.07-11.42.23:273][198]LogTexture: Display: 正在编译纹理：Texture2D_311（BGRA8、512X512）
+[2020.09.07-11.42.23:273][198]LogTexture: Display: 正在编译纹理：Texture2D_313（BGRA8、512X512）
+[2020.09.07-11.42.23:273][198]LogTexture: Display: 正在编译纹理：Texture2D_315（BGRA8、512X512）
+[2020.09.07-11.42.23:273][198]LogTexture: Display: 正在编译纹理：Texture2D_317（BGRA8、512X512）
+[2020.09.07-11.42.23:273][198]LogTexture: Display: 正在编译纹理：Texture2D_319（BGRA8、512X512）
+[2020.09.07-11.42.23:273][198]LogTexture: Display: 正在编译纹理：Texture2D_33（BGRA8、512X512）
+[2020.09.07-11.42.23:273][198]LogTexture: Display: 正在编译纹理：Texture2D_35（BGRA8、512X512）
+[2020.09.07-11.42.23:273][198]LogTexture: Display: 正在编译纹理：Texture2D_353（BGRA8、512X512）
+[2020.09.07-11.42.23:273][198]LogTexture: Display: 正在编译纹理：Texture2D_355（BGRA8、512X512）
+[2020.09.07-11.42.23:274][198]LogTexture: Display: 正在编译纹理：Texture2D_357（BGRA8、512X512）
+[2020.09.07-11.42.23:274][198]LogTexture: Display: 正在编译纹理：Texture2D_359（BGRA8、512X512）
+[2020.09.07-11.42.23:274][198]LogTexture: Display: 正在编译纹理：Texture2D_361（BGRA8、512X512）
+[2020.09.07-11.42.23:274][198]LogTexture: Display: 正在编译纹理：Texture2D_363（BGRA8、512X512）
+[2020.09.07-11.42.23:274][198]LogTexture: Display: 正在编译纹理：Texture2D_365（BGRA8、512X512）
+[2020.09.07-11.42.23:274][198]LogTexture: Display: 正在编译纹理：Texture2D_367（BGRA8、512X512）
+[2020.09.07-11.42.23:274][198]LogTexture: Display: 正在编译纹理：Texture2D_369（BGRA8、512X512）
+[2020.09.07-11.42.23:274][198]LogTexture: Display: 正在编译纹理：Texture2D_371（BGRA8、512X512）
+[2020.09.07-11.42.23:274][198]LogTexture: Display: 正在编译纹理：Texture2D_37（BGRA8、512X512）
+[2020.09.07-11.42.23:274][198]LogTexture: Display: 正在编译纹理：Texture2D_373（BGRA8、512X512）
+[2020.09.07-11.42.23:274][198]LogTexture: Display: 正在编译纹理：Texture2D_375（BGRA8、512X512）
+[2020.09.07-11.42.23:274][198]LogTexture: Display: 正在编译纹理：Texture2D_377（BGRA8、512X512）
+[2020.09.07-11.42.23:274][198]LogTexture: Display: 正在编译纹理：Texture2D_379（BGRA8、512X512）
+[2020.09.07-11.42.23:274][198]LogTexture: Display: 正在编译纹理：Texture2D_381（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_383（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_39（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_41（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_417（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_419（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_421（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_423（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_425（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_427（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_429（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_43（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_431（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_433（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_435（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_437（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_439（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_441（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_443（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_445（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_447（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_45（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_47（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_481（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_483（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_485（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_487（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_489（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_49（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_491（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_495（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_497（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_493（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_499（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_501（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_503（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_505（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_507（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_509（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_51（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_511（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_53（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_545（BGRA8、512X512）
+[2020.09.07-11.42.23:275][198]LogTexture: Display: 正在编译纹理：Texture2D_547（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_549（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_55（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_551（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_553（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_555（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_557（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_559（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_561（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_563（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_565（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_567（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_569（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_57（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_571（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_573（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_575（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_609（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_61（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_59（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_611（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_613（BGRA8、512X512）
+[2020.09.07-11.42.23:276][198]LogTexture: Display: 正在编译纹理：Texture2D_615（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_617（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_619（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_623（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_625（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_621（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_627（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_629（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_63（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_631（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_633（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_635（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_637（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_639（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_673（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_675（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_677（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_679（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_681（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_683（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_685（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_687（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_689（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_691（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_693（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_695（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_697（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_699（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_701（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_703（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_737（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_739（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_741（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_743（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_745（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_747（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_749（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_751（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_753（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_755（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_757（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_759（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_761（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_763（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_765（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_767（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_801（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_803（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_805（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_807（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_809（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_811（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_813（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_815（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_817（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_819（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_821（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_823（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_825（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_827（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_829（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_831（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_865（BGRA8、512X512）
+[2020.09.07-11.42.23:277][198]LogTexture: Display: 正在编译纹理：Texture2D_867（BGRA8、512X512）
+[2020.09.07-11.42.23:278][198]LogTexture: Display: 正在编译纹理：Texture2D_869（BGRA8、512X512）
+[2020.09.07-11.42.23:278][198]LogTexture: Display: 正在编译纹理：Texture2D_871（BGRA8、512X512）
+[2020.09.07-11.42.23:278][198]LogTexture: Display: 正在编译纹理：Texture2D_873（BGRA8、512X512）
+[2020.09.07-11.42.23:278][198]LogTexture: Display: 正在编译纹理：Texture2D_875（BGRA8、512X512）
+[2020.09.07-11.42.23:278][198]LogTexture: Display: 正在编译纹理：Texture2D_877（BGRA8、512X512）
+[2020.09.07-11.42.23:278][198]LogTexture: Display: 正在编译纹理：Texture2D_879（BGRA8、512X512）
+[2020.09.07-11.42.23:278][198]LogTexture: Display: 正在编译纹理：Texture2D_881（BGRA8、512X512）
+[2020.09.07-11.42.23:278][198]LogTexture: Display: 正在编译纹理：Texture2D_883（BGRA8、512X512）
+[2020.09.07-11.42.23:278][198]LogTexture: Display: 正在编译纹理：Texture2D_885（BGRA8、512X512）
+[2020.09.07-11.42.23:278][198]LogTexture: Display: 正在编译纹理：Texture2D_887（BGRA8、512X512）
+[2020.09.07-11.42.23:278][198]LogTexture: Display: 正在编译纹理：Texture2D_889（BGRA8、512X512）
+[2020.09.07-11.42.23:278][198]LogTexture: Display: 正在编译纹理：Texture2D_891（BGRA8、512X512）
+[2020.09.07-11.42.23:278][198]LogTexture: Display: 正在编译纹理：Texture2D_893（BGRA8、512X512）
+[2020.09.07-11.42.23:278][198]LogTexture: Display: 正在编译纹理：Texture2D_895（BGRA8、512X512）
+[2020.09.07-11.42.23:278][198]LogTexture: Display: 正在编译纹理：Texture2D_929（BGRA8、512X512）
+[2020.09.07-11.42.23:278][198]LogTexture: Display: 正在编译纹理：Texture2D_933（BGRA8、512X512）
+[2020.09.07-11.42.23:278][198]LogTexture: Display: 正在编译纹理：Texture2D_935（BGRA8、512X512）
+[2020.09.07-11.42.23:278][198]LogTexture: Display: 正在编译纹理：Texture2D_931（BGRA8、512X512）
+[2020.09.07-11.42.23:278][198]LogTexture: Display: 正在编译纹理：Texture2D_937（BGRA8、512X512）
+[2020.09.07-11.42.23:278][198]LogTexture: Display: 正在编译纹理：Texture2D_939（BGRA8、512X512）
+[2020.09.07-11.42.23:280][198]LogTexture: Display: 正在编译纹理：Texture2D_941（BGRA8、512X512）
+[2020.09.07-11.42.23:299][198]LogTexture: Display: 正在编译纹理：Texture2D_943（BGRA8、512X512）
+[2020.09.07-11.42.23:299][198]LogTexture: Display: 正在编译纹理：Texture2D_945（BGRA8、512X512）
+[2020.09.07-11.42.23:299][198]LogTexture: Display: 正在编译纹理：Texture2D_947（BGRA8、512X512）
+[2020.09.07-11.42.23:334][198]LogTexture: Display: 正在编译纹理：Texture2D_949（BGRA8、512X512）
+[2020.09.07-11.42.23:334][198]LogTexture: Display: 正在编译纹理：Texture2D_951（BGRA8、512X512）
+[2020.09.07-11.42.23:343][198]LogTexture: Display: 正在编译纹理：Texture2D_953（BGRA8、512X512）
+[2020.09.07-11.42.23:343][198]LogTexture: Display: 正在编译纹理：Texture2D_955（BGRA8、512X512）
+[2020.09.07-11.42.23:343][198]LogTexture: Display: 正在编译纹理：Texture2D_957（BGRA8、512X512）
+[2020.09.07-11.42.23:343][198]LogTexture: Display: 正在编译纹理：Texture2D_959（BGRA8、512X512）
+[2020.09.07-11.42.23:349][198]LogTexture: Display: 正在编译纹理：Texture2D_97（BGRA8、512X512）
+[2020.09.07-11.42.23:355][198]LogTexture: Display: 正在编译纹理：Texture2D_99（BGRA8、512X512）
+[2020.09.07-11.42.23:358][198]LogTexture: Display: 正在编译纹理：Texture2D_993（BGRA8、512X512）
+[2020.09.07-11.42.23:358][198]LogTexture: Display: 正在编译纹理：Texture2D_995（BGRA8、512X512）
+[2020.09.07-11.42.23:373][198]LogTexture: Display: 正在编译纹理：Texture2D_997（BGRA8、512X512）
+[2020.09.07-11.42.23:373][198]LogTexture: Display: 正在编译纹理：Texture2D_999（BGRA8、512X512）
+[2020.09.07-11.42.24:938][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11472
+[2020.09.07-11.42.26:648][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11462
+[2020.09.07-11.42.27:819][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11452
+[2020.09.07-11.42.32:219][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11442
+[2020.09.07-11.42.34:738][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11432
+[2020.09.07-11.42.37:065][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11422
+[2020.09.07-11.42.40:954][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11412
+[2020.09.07-11.42.46:893][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11402
+[2020.09.07-11.42.47:313][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11392
+[2020.09.07-11.42.55:659][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11382
+[2020.09.07-11.43.00:334][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11372
+[2020.09.07-11.43.02:291][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11362
+[2020.09.07-11.43.10:402][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11352
+[2020.09.07-11.43.11:435][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11342
+[2020.09.07-11.43.14:187][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11332
+[2020.09.07-11.43.19:000][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11322
+[2020.09.07-11.43.19:557][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11312
+[2020.09.07-11.43.41:529][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11302
+[2020.09.07-11.43.45:881][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11292
+[2020.09.07-11.43.47:782][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11282
+[2020.09.07-11.44.01:478][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11272
+[2020.09.07-11.44.01:478][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11262
+[2020.09.07-11.44.01:478][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11252
+[2020.09.07-11.44.15:131][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11242
+[2020.09.07-11.44.15:131][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11232
+[2020.09.07-11.44.15:131][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11222
+[2020.09.07-11.44.15:131][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11212
+[2020.09.07-11.44.15:131][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11202
+[2020.09.07-11.44.15:131][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11192
+[2020.09.07-11.44.15:131][198]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11182
+[2020.09.07-11.44.15:131][198]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11172
